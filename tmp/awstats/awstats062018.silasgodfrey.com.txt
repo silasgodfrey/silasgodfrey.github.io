@@ -1,0 +1,804 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/silasgodfrey/tmp/awstats/awstats.silasgodfrey.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2689                
+POS_VISITOR 19615               
+POS_DAY 23361               
+POS_DOMAIN 3392                
+POS_LOGIN 3798                
+POS_ROBOT 3953                
+POS_WORMS 4402                
+POS_EMAILSENDER 4533                
+POS_EMAILRECEIVER 4676                
+POS_SESSION 24027               
+POS_SIDER 24185               
+POS_FILETYPES 4811                
+POS_DOWNLOADS 4944                
+POS_OS 4992                
+POS_BROWSER 5242                
+POS_SCREENSIZE 6286                
+POS_UNKNOWNREFERER 6360                
+POS_UNKNOWNREFERERBROWSER 6707                
+POS_ORIGIN 6885                
+POS_SEREFERRALS 7021                
+POS_PAGEREFS 7186                
+POS_SEARCHWORDS 7415                
+POS_KEYWORDS 7584                
+POS_MISC 2353                
+POS_ERRORS 7660                
+POS_CLUSTER 3654                
+POS_SIDER_404 7763                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701121825 1 0 12591720837125
+FirstTime 20180601091608
+LastTime 20180630070300
+LastUpdate 20180702051006 1 0 0 0 0
+TotalVisits 115                 
+TotalUnique 93                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 96                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 8719 2 6 92915
+1 5 6 82489 7 16 45565
+2 3 5 73899 2 7 12133
+3 3 3 6720 8 13 27346
+4 2 2 8719 5 9 21185
+5 5 7 158474 11 19 41435
+6 4 4 13199 6 9 23392
+7 5 5 15439 8 13 27078
+8 7 7 13440 8 35 88807
+9 12 13 91449 3 49 90826
+10 12 15 201846 129 278 267834
+11 6 13 262557 8 14 19710
+12 7 7 24158 10 11 16703
+13 7 7 32636 11 22 57031
+14 4 4 17438 0 3 3527
+15 2 2 8719 7 15 37814
+16 5 5 19678 6 16 101996
+17 6 8 95465 9 18 32699
+18 2 3 75769 15 30 81566
+19 6 10 115265 32 40 95703
+20 11 12 41614 15 27 74971
+21 4 5 9089 1 5 23186
+22 1 1 2240 7 11 18642
+23 8 8 30637 7 17 39911
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 77 92 883501
+cn 14 21 297322
+gb 6 8 100161
+ru 6 7 17808
+ca 4 4 12958
+fr 4 4 17438
+ua 4 4 21677
+de 3 3 10959
+ro 2 2 8719
+gr 2 2 4480
+jp 2 2 12958
+nl 2 2 12958
+sk 1 1 2240
+hk 1 1 6479
+md 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 74 271545 20180630223628 0
+spider 35 86896 20180630190655 0
+googlebot 29 175408 20180626232345 0
+robot 10 22400 20180628090702 0
+crawl 8 19919 20180626174420 0
+no_user_agent 6 25916 20180630122827 0
+bingpreview 4 173442 20180620163624 0
+curl 1 0 20180609191228 0
+netcraft 1 6479 20180601173737 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 16 622288 0 0
+html 129 406929 0 0
+jpg 5 379925 0 0
+png 4 516 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+win8.1 2 2
+linuxandroid 4 3
+winnt 29 29
+linux 25 17
+win8 1 1
+macosx8 1 1
+macosx9 3 3
+ios_iphone 4 2
+win7 19 15
+macosx 40 31
+win2000 1 1
+win2003 2 1
+winlong 4 4
+winxp 3 3
+Unknown 16 16
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+chrome36.0.1985.125 3 3
+safari11.0.3 5 3
+chrome43.0.2357.134 2 2
+chrome64.0.3282.186 1 1
+msie7.0 2 1
+chrome61.0.3163.100 13 13
+firefox18.0 2 1
+chrome65.0.3325.162 1 1
+chrome56.0.2924.87 1 1
+msie9.0 5 3
+chrome40.0.2214.93 1 1
+chrome41.0.2228.0 2 2
+mozilla 6 6
+chrome53.0.2785.143 1 1
+chrome53.6.0333.5061 1 1
+chrome10.0.648.133 1 1
+safari11.0 1 1
+firefox51.0 2 2
+chrome5.0.375.99 2 2
+chrome26.0.1410.65 1 1
+firefox21.0 1 1
+chrome41.0.2272.96 1 1
+chrome47.0.2526.106 2 2
+chrome37.0.2062.120 2 2
+firefox41.0 2 2
+chrome62.0.3202.94 2 2
+firefox43.0 4 2
+chrome65.0.3325.181 21 14
+chrome34.0.1847.116 1 1
+msie5.0 2 2
+chrome66.0.3359.117 4 4
+chrome57.0.2987.133 1 1
+msie8.0 4 4
+chrome63.0.3205.0 2 1
+opera11.2.3.102637 2 1
+chrome50.0.2661.102 2 2
+firefox53.0 2 2
+firefox50.0 1 1
+chrome67.0.3396.87 5 2
+Unknown 11 11
+safari8.0 3 1
+chrome66.0.3359.181 4 4
+chrome45.0.2454.94 1 1
+msie11.0 2 2
+chrome58.0.3029.110 6 6
+safari11.1 4 1
+firefox3.6.12 1 1
+firefox59.0 3 3
+opera46.0.2597.57 2 2
+firefox57.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/3.0_(compatible;_Indy_Library) 20180623075004
+Mozilla/5.0_(compatible;_ips-agent) 20180621140558
+The_Knowledge_AI 20180627092123
+Faraday_v0.9.2 20180629203922
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180617103513
+Symfony_BrowserKit 20180602134508
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Symfony_BrowserKit 20180602134508
+The_Knowledge_AI 20180627092123
+Faraday_v0.9.2 20180629203922
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 101 110
+From1 2 2
+From2 4 4
+From3 3 3
+From4 19 35
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+baidu 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+https://www.cjb.net 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+tinymnn 1
+swe5 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+tinymnn 1
+swe5 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 2 12958
+404 506 547012
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 346
+/Fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/eladm.php 1 -
+/wp-content 1 -
+/admin/js/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/fckeditor/fckeditor.js 2 -
+/ckfinder/ckfinder.html 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/manage/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/default/images/logo.gif 1 -
+/wp-content/themes/famous/style.css 1 http://www.silasgodfrey.com/wp-content/themes/famous/style.css
+/ks_inc/ajax.js 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/inc/Templates/rss.xslt 1 -
+/siteserver/login.aspx 1 -
+/member/space/company/info.txt 1 -
+/include/dialog/config.php 1 -
+/hxcdm/cdm/hxcdm.php 1 -
+/modules/modules/joomla-resize.php 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/index 1 -
+/forums/list.page 1 -
+/phpmyadmin/ 2 -
+/console/auth/reg_newuser.jsp 1 -
+/script/login.js 1 -
+/templets/default/style/dedecms.css 1 http://silasgodfrey.com
+/wp-cron.php 1 -
+/help/en/h_authenticate.html 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/Images/login/lefttu.jpg 1 -
+/robots.txt 142 -
+/app/login.jsp 1 -
+/feed.asp 1 -
+/scripts/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/system/language/zh-cn.xml 1 -
+/inc/rsd.php 1 -
+/app/images/login/toplogo.gif 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/CHANGELOG.txt 3 -
+/e/master/login.aspx 1 -
+/ckeditor/fckeditor.js 1 http://silasgodfrey.com
+/ckeditor/ckfinder/install.txt 1 -
+/admin/login.aspx 1 -
+/Uploadfiles/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/webmanage/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/system/skins/default/system.login.htm 1 -
+/themes/graphics/horde-power1.png 1 -
+/help/user/index.html 1 -
+/sitemap.xml 4 -
+/fckeditor/license.txt 1 -
+/tools/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/admin/view/javascript/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/admin/start/index.php 1 -
+/advfile/ad12.js 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/uc_server/control/admin/db.php 1 -
+/index.cgi 1 -
+/examples/readonly.html 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/include/dedeajax2.js 1 -
+/public/js/ipb.js 1 -
+/Administrator/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/customdir/images/english_logo.jpg 1 -
+/webeditor/fckeditor.js 1 http://silasgodfrey.com
+/images/login/logo.gif 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/ads.txt 3 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/server/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/includes/general.js 1 -
+/Error.aspx 1 -
+/stylesheet.css 1 -
+/forum.php 1 -
+/admin/ 2 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/1172879 1 -
+/plugins/anchor/anchor.js 1 -
+/admin/template/article_more/config.htm 1 -
+/ids/admin/login.jsp 1 -
+/html/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/examples/index.html 1 -
+/admin/index.php 1 -
+/admin/fck/fckeditor.js 1 http://silasgodfrey.com
+/lang/en.js 1 -
+/script/valid_formdata.js 1 -
+/default/css/em_css.css 1 -
+/changelog.txt 1 -
+/wcm/ 1 -
+/tools/rss.aspx 1 -
+/asp.net/README.txt 1 -
+/was/main.html 1 -
+/siteserver/upgrade/default.aspx 1 -
+/user/register 1 -
+/fck/fckeditor.js 1 http://silasgodfrey.com
+/themes/default/default.css 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/api/api_user.xml 1 -
+/admin_bg/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/archive/archive.css 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/images/2_11.gif 1 -
+/images/zh-CN/logo.ico 1 -
+/nobody/mobile.htm 1 -
+/deptWebsiteAction.do 1 -
+/sql/ 1 -
+/licence.txt 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/plug/publish 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/js/buttons.js 1 -
+/weblog/ 1 -
+/xmlrpz-sql.php 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/README.txt 1 -
+/style/default/hdwiki.css 1 -
+/myadmin/ 1 -
+/docs.css 1 -
+/1172034 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/phpmyadmin/docs.css 1 -
+/bencandy.php 1 -
+/system/Login.aspx 1 -
+/ckfinder/install.txt 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/images/login/eyoumail.gif 1 -
+/sscms/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/dialog/dialog.js 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/archiver 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/issmall/ 1 -
+/WebSite/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/11.php 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+//blog/wp-admin/install.php 1 -
+/Wq_StranJF.js 1 -
+/app/home/skins/default/style.css 1 -
+/about/ 1 -
+/plus/rssmap.html 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/404.jpg 1 -
+/index.php 6 -
+/fk/fckeditor.js 1 http://silasgodfrey.com
+/doku.php 1 -
+/rss.php 1 -
+/editors/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/plugin.php 1 -
+/images/Default_bg_002.gif 1 -
+/expansion/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/images/login9/login_33.jpg 1 -
+/wp-pols.php 1 -
+/public/about.html 1 -
+/wp-content/themes/konzept/style.css 1 http://www.silasgodfrey.com/wp-content/themes/konzept/style.css
+/Install/logo.gif 1 -
+/_admin/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/images/logo_88x31.gif 1 -
+/plus/download.php 1 -
+/include/install_ocx.aspx 1 -
+/common/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/master/login.aspx 1 -
+/tmp.php 1 -
+/install 1 -
+/textarea/fck/fckeditor.js 1 http://silasgodfrey.com
+/Public/Js/FCKMini/fckeditor.js 1 http://silasgodfrey.com
+/Images/login/mainlogo.gif 1 -
+/admin/editor/fckeditor.js 1 http://silasgodfrey.com
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/console/js/CWCMDialogHead.js 1 -
+/images/logo_product-cml.png 1 -
+/extern.php 1 -
+/wp-login.php 2 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/jcms/index_jcms.jsp 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/logo/logo_jw.png 1 -
+/system/application/plugins/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/static/images/logo/webserver_small.gif 1 -
+/overlay.php 1 -
+/plugins/modules.php 1 -
+/Images/login/biaoti.jpg 1 -
+/plugins/filemanager/filemanager/js 1 -
+/modules/modules.php 1 -
+/User/Login.aspx 1 -
+/Contact 1 -
+/common/help/images/helplogo_zh.gif 1 -
+//wp/wp-admin/install.php 1 -
+/cgi/index.cgi 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/common/common.js 1 -
+/Include/EcsServerApi.js 1 -
+/images/hwem.css 1 -
+/docs/DOCUMENTATION.txt 1 -
+/Search.html 1 -
+/manage/fck/fckeditor.js 1 http://silasgodfrey.com
+/images/login/icon-up.gif 1 -
+/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php 1 http://www.silasgodfrey.com/wp-content/themes/ThisWay/includes/uploadify/upload_settings_image.php
+/archiver/ 1 -
+/pma/ 1 -
+/test_404_page/ 1 -
+/fckeditor/fckconfig.js 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/examples/file-manager.html 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/fckeditor.js 1 -
+/app/images/login/logo.png 1 -
+/1241102 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/images/default/post_bt.gif 1 -
+/admin.php 2 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/public/js/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/static/hgicon.png 1 -
+/plus/sitemap.html 1 -
+/libraries/index.php 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/libraries/phputf8/xost-locale.php 1 -
+/License.txt 1 -
+/components/modules.php 1 -
+/js/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/core/CHANGELOG.txt 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/blog/ 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/base/login/login.php 1 -
+/Public/Js/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/Fckeditornew/fckeditor.js 1 http://silasgodfrey.com
+/common/help/images/helplogo.gif 1 -
+/bbs/ 1 -
+/m 1 -
+/max-templates/classic/styles/app.css 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/forum/ 1 -
+/business/images/index-gg1.jpg 1 -
+/editorold/fckeditor.js 1 http://silasgodfrey.com
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/layouts/modules.php 1 -
+/modules/modules/version.php 1 -
+/img/pic/login/top-left.jpg 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/data/admin/ver.txt 1 -
+/admin/admin_login.php 1 -
+/console/js/CTRSRequestParam.js 1 -
+/wp-datas.php 1 -
+/editor/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/console/include/not_login.htm 1 -
+/kindeditor.js 1 -
+/wp-content/plugins/editormonkey/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/modules/modules/modules.php 1 -
+/auth/login 1 -
+/Ntalker/lawfirm.aspx 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+//blog/ 1 http://silasgodfrey.com/
+/list.php 1 -
+/html/js/editor/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/system/Update.aspx 1 -
+/include/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/images/branding/logo.gif 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/js/ajax_x.js 1 -
+/admin/inc/xml.xslt 1 -
+/html/fck/fckeditor.js 1 http://silasgodfrey.com
+/user/register/ 2 -
+/inc/playerKinds.xml 1 -
+/was/help.jsp 1 -
+/jcms/index.jsp 1 -
+/1171968 1 -
+/admin/editor/ 1 -
+/modules/modules/path.php 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/.well-known/security.txt 1 -
+/extman/default/images/logo.gif 1 -
+/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/inc/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/admin/js/IdSUtil.js 1 -
+/ckeditor/ckeditor.js 1 -
+/configbak.php 1 -
+/wp-installation.php 1 -
+/maintlogin.jsp 1 -
+/digg.php 1 -
+/admin/login.asp 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/_fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/FCKEditorV2/fckeditor.js 1 http://silasgodfrey.com
+//wordpress/wp-admin/install.php 1 -
+/Help 1 -
+/images/login_Name.jpg 1 -
+/tyopfckeditor/fckeditor.js 1 http://silasgodfrey.com
+/Fckeditorold/fckeditor.js 1 http://silasgodfrey.com
+/login/Jeecms.do 1 -
+/was5/web/index.jsp 1 -
+/docs/ 1 -
+/Admin/Login.aspx 1 -
+/images/logo-white.png 1 -
+/siteadmin/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/up.php 2 -
+/Administrator/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/pub/guiedit/guiedit.js 1 -
+/rss.aspx 1 -
+/config.php 1 -
+/data/images/wap_logo.gif 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/history.txt 1 -
+/admin/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/admin/login.php 1 -
+/whir_system/login.aspx 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/Editor.js 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/admin 1 -
+/lib/FCKeditor/fckeditor.js 1 http://silasgodfrey.com
+/editor/fckeditor.js 1 -
+/phpMyAdmin/ 1 -
+/guestbook/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/inc/fck/fckeditor.js 1 http://silasgodfrey.com
+/FCK/fckeditor.js 1 -
+/Resume 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/whir_system/module/security/login.aspx 1 -
+/license.txt 1 -
+/next/img/logo.gif 1 -
+/agents/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/media/com_hikashop/js/hikashop.js 1 -
+/plus/heightsearch.php 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/kindeditor-min.js 1 -
+/imdex.php 1 -
+/readme.html 1 -
+/sysadmin/fckeditor/fckeditor.js 1 http://silasgodfrey.com
+/manage/editor/fckeditor.js 1 http://silasgodfrey.com
+/redirect.php 1 -
+/Uploadfiles/fck/fckeditor.js 1 http://silasgodfrey.com
+/template/home.htm 1 -
+/admin/wo_edit/fckeditor.js 1 http://silasgodfrey.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 96
+13.57.220.0 7 7 15680 20180619175634
+163.172.4.153 5 5 11200 20180622090703
+52.53.201.78 5 5 11200 20180630070300
+72.52.75.27 3 3 6720 20180605125054
+52.165.129.203 3 3 6720 20180617083337
+144.217.66.151 3 3 19437 20180617103515
+125.64.94.206 3 3 6720 20180605100728
+23.89.115.157 2 2 4480 20180602085500
+109.201.133.48 2 2 12958 20180628100938
+62.210.90.123 2 2 12958 20180614125157
+95.179.141.202 2 2 4480 20180607074849
+159.89.121.228 2 2 0 20180603090006
+77.120.176.171 2 2 12958 20180623075004
+66.240.192.138 2 2 12958 20180604063220
+66.246.224.9 2 2 12958 20180621160347
+52.165.150.117 2 2 4480 20180622005238
+180.153.232.170 2 2 4480 20180602211024
+157.7.106.170 2 2 12958 20180622131753
+218.92.147.30 2 2 0 20180606083957
+64.62.252.164 2 2 4480 20180623181728
+18.144.47.14 2 2 2240 20180614202923
+195.254.134.242 1 1 2240 20180605125057
+178.17.174.14 1 1 0 20180624112424
+184.154.47.3 1 1 2240 20180607231110
+188.93.56.216 1 2 2369 20180610022651
+85.248.227.164 1 1 2240 20180602050940
+101.199.110.108 1 2 12976 20180602171013
+107.152.243.77 1 1 2240 20180603153226
+159.89.224.48 1 1 6479 20180618040651
+115.239.212.197 1 2 12976 20180628115234
+198.20.103.243 1 1 2240 20180601091608
+138.68.180.18 1 1 2240 20180602073940
+54.224.198.245 1 1 2240 20180603125329
+138.197.7.55 1 1 2240 20180616165425
+67.227.100.93 1 1 2240 20180627205136
+138.197.111.170 1 1 2240 20180617101138
+185.129.62.63 1 1 6479 20180608150249
+77.201.193.150 1 1 2240 20180602131537
+64.246.161.42 1 1 2240 20180603043719
+149.202.72.198 1 1 2240 20180627104534
+176.37.88.156 1 1 6479 20180602134508
+138.197.111.172 1 1 2240 20180605014832
+123.125.67.151 0 1 67050 
+38.100.21.66 1 2 73529 20180607181832
+192.3.139.181 1 1 2240 20180603172837
+198.20.103.242 1 1 2240 20180607175229
+91.243.80.218 1 1 2240 20180629135311
+184.94.240.92 1 1 6479 20180628163109
+80.93.187.145 1 1 2240 20180625064907
+138.197.11.230 1 2 69290 20180608013739
+64.62.252.173 1 1 2240 20180607080629
+73.202.218.185 0 1 129 
+66.160.140.180 1 1 2240 20180619163207
+66.160.140.182 1 1 2240 20180627092123
+173.211.110.157 1 1 2240 20180606214312
+64.62.252.169 1 1 2240 20180608084531
+34.219.101.59 1 1 6479 20180612203132
+54.234.3.120 1 1 2240 20180629203922
+138.197.67.85 1 2 69290 20180603174710
+213.231.10.96 1 1 2240 20180607235442
+85.10.204.252 1 1 6479 20180625232707
+220.181.108.171 1 1 6479 20180608054015
+199.249.223.42 1 1 2240 20180616114624
+106.120.160.114 1 1 6479 20180602170958
+128.177.10.220 1 1 6479 20180629233446
+64.62.252.163 1 1 2240 20180614053650
+158.46.167.236 1 1 2240 20180620195809
+51.15.49.134 1 3 88961 20180624112428
+167.114.232.156 1 1 6479 20180605000512
+148.251.90.10 1 1 2240 20180608031429
+95.181.179.221 1 1 2240 20180610065932
+47.106.123.159 1 3 88961 20180615101532
+138.197.111.48 1 1 2240 20180624192633
+69.58.178.58 1 1 6479 20180621140558
+180.169.191.142 1 1 2240 20180610160527
+43.254.218.1 1 1 6479 20180621194436
+123.125.143.141 1 2 12976 20180629191426
+50.197.173.241 1 4 89090 20180621111826
+216.74.103.241 1 1 2240 20180613213229
+54.183.169.113 1 1 6479 20180614202613
+144.76.139.79 1 1 2240 20180618201809
+206.180.165.147 1 1 2240 20180607023828
+188.240.208.26 1 1 6479 20180620132105
+54.204.103.247 1 1 2240 20180601203509
+159.203.80.251 1 2 69290 20180613093349
+159.203.83.175 1 2 69290 20180619102316
+66.160.140.183 1 1 2240 20180607093607
+138.197.7.130 1 2 69290 20180623023951
+64.246.165.50 1 1 2240 20180621050859
+38.99.25.193 1 4 89090 20180614190745
+220.181.108.150 0 1 75985 
+52.165.148.51 1 1 2240 20180622061303
+96.127.158.238 1 1 2240 20180629091424
+159.203.75.231 1 2 69290 20180625111140
+18.144.43.229 1 2 12976 20180614202923
+128.177.10.114 1 1 6479 20180629233448
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20180601 3 3 4480 3
+20180602 10 11 41614 8
+20180603 8 9 80490 7
+20180604 3 3 15198 3
+20180605 9 9 24399 5
+20180606 3 3 4480 3
+20180607 9 10 91449 8
+20180608 7 10 234243 7
+20180609 1 1 2240 1
+20180610 3 4 6849 3
+20180611 1 1 2240 1
+20180612 2 2 8719 2
+20180613 3 4 73770 3
+20180614 8 12 125983 6
+20180615 4 7 100049 4
+20180616 2 2 4480 2
+20180617 6 6 26157 4
+20180618 3 3 10959 3
+20180619 3 4 73770 3
+20180620 2 2 8719 2
+20180621 8 11 121726 8
+20180622 5 5 19678 4
+20180623 4 5 80249 4
+20180624 3 5 91201 3
+20180625 4 5 80249 4
+20180627 3 3 6720 3
+20180628 5 6 34653 4
+20180629 6 7 32654 6
+20180630 1 1 2240 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 114
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 129 406929 115 115
+END_SIDER

@@ -1,0 +1,554 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/silasgodfrey/tmp/awstats/awstats.silasgodfrey.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2681                
+POS_VISITOR 13129               
+POS_DAY 17033               
+POS_DOMAIN 3406                
+POS_LOGIN 3814                
+POS_ROBOT 3969                
+POS_WORMS 4539                
+POS_EMAILSENDER 4670                
+POS_EMAILRECEIVER 4813                
+POS_SESSION 17742               
+POS_SIDER 17890               
+POS_FILETYPES 4948                
+POS_DOWNLOADS 5082                
+POS_OS 5130                
+POS_BROWSER 5380                
+POS_SCREENSIZE 6317                
+POS_UNKNOWNREFERER 6391                
+POS_UNKNOWNREFERERBROWSER 6696                
+POS_ORIGIN 6886                
+POS_SEREFERRALS 7020                
+POS_PAGEREFS 7175                
+POS_SEARCHWORDS 7379                
+POS_KEYWORDS 7531                
+POS_MISC 2345                
+POS_ERRORS 7590                
+POS_CLUSTER 3670                
+POS_SIDER_404 7693                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801024239 29 4160 8833300534489
+FirstTime 0
+LastTime 20170731203846
+LastUpdate 20170801052251 29 0 28 0 0
+TotalVisits 106                 
+TotalUnique 98                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 100                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 6 104169 15 27 54392
+1 2 6 158376 18 33 36668
+2 1 2 69288 13 20 40345
+3 2 2 4476 17 27 45703
+4 10 11 123414 16 28 70362
+5 1 1 2238 27 40 198695
+6 7 8 86964 6 17 27719
+7 1 1 2238 11 24 105539
+8 0 0 0 13 15 37459
+9 6 11 238626 7 17 46419
+10 4 7 104298 35 48 102233
+11 8 12 180072 4 9 9285
+12 5 9 113024 5 12 23963
+13 3 5 153997 31 45 177433
+14 4 7 95802 10 21 45150
+15 3 7 169549 10 35 39295
+16 3 5 149310 13 24 76115
+17 4 4 13200 12 17 34920
+18 1 2 78223 7 12 22038
+19 6 6 21924 11 19 30782
+20 21 23 131481 20 33 86435
+21 13 13 29094 9 16 42583
+22 1 1 2238 12 25 38551
+23 4 5 76002 26 52 101102
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 79 111 1586773
+gb 8 8 22152
+ca 6 9 121518
+sk 3 3 6486
+nl 3 3 10962
+ru 3 3 19458
+cn 3 5 149310
+ua 2 2 12972
+fr 2 2 4476
+ch 1 1 2238
+de 1 1 2238
+tr 1 1 2238
+kr 1 1 2238
+ro 1 3 88959
+ph 0 1 75985
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 119 251223 20170731072640 0
+spider 55 174078 20170731041225 0
+googlebot 40 216990 20170731134725 0
+no_user_agent 25 162150 20170730190411 0
+robot 10 22380 20170726082117 0
+crawl 8 17904 20170718071249 0
+bingpreview 4 229756 20170715051311 0
+slurp 1 2238 20170718203119 0
+[\s_+:,\.\;\/\\-]bot 1 0 20170718071009 0
+ia_archiver 1 6486 20170703200905 0
+googlebot\-image 1 0 20170731030534 0
+curl 1 6486 20170703000648 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 114 350370 0 0
+css 21 844910 0 0
+png 7 903 0 0
+jpg 12 911820 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+macosx5 1 1
+win7 34 29
+winlong 1 1
+linuxandroid 1 1
+macosx9 11 7
+winnt 2 2
+ios_iphone 4 2
+macosx 64 44
+ios_ipad 2 2
+linux 11 8
+win2003 2 1
+win8.1 8 3
+Unknown 8 8
+macosx8 1 1
+winxp 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+mozilla 5 4
+firefox3.6.12 1 1
+chrome36.0.1985.143 1 1
+safari10.1.2 1 1
+msie11.0 2 2
+chrome45.0.2454.94 1 1
+chrome58.0.3029.81 1 1
+msie6.0 2 2
+chrome57.0.2987.133 3 3
+firefox3.5.0 1 1
+Unknown 5 5
+firefox50.0 1 1
+opera36.0.2130.32 1 1
+chrome34.0.1847.131 8 5
+firefox15.0.1 1 1
+firefox28.0 4 4
+firefox40.0 1 1
+firefox26.0 2 2
+msie10.0 1 1
+chrome53.0.2785.116 1 1
+chrome38.0.2125.111 1 1
+chrome37.0.2062.120 1 1
+chrome56.0.2924.87 4 1
+firefox3.6.3 1 1
+firefox29.0 2 0
+chrome35.0.1916.114 2 0
+chrome28.0.1500.71 1 1
+safari10.1.1 5 1
+firefox40.1 3 1
+firefox2.0.0.13 1 1
+msie9.0 5 5
+safari10.0 2 2
+firefox21.0 2 2
+chrome50.0.2661.102 2 2
+firefox52.0 1 1
+chrome50.0.2661.75 1 1
+chrome6.0 1 1
+chrome40.0.2214.93 1 1
+chrome33.0.1750.152 3 3
+firefox34.0 1 1
+chrome41.0.2228.0 2 2
+chrome59.0.3071.115 25 6
+chrome34.0.1847.137 4 3
+chrome58.0.3029.110 31 31
+firefox53.0 3 3
+safari8.0 4 2
+msie7.0 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170709044738
+Gobyus 20170710110205
+gobyus 20170710110205
+nutch-1.4/Nutch-1.4 20170710042009
+HEADMasterSEO 20170701164845
+Mozilla/5.0_(compatible;_ips-agent) 20170702093632
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Gobyus 20170710110205
+gobyus 20170710110205
+HEADMasterSEO 20170701164845
+nutch-1.4/Nutch-1.4 20170710042009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 83 92
+From1 1 1
+From2 7 9
+From3 2 2
+From4 21 50
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 7 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://pizza-imperia.com 1 1
+http://t.co/y9etKrhGyR 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 316 377551
+206 4 25944
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 96
+/beta/wp-admin/setup-config.php 2 -
+/new/wp-admin/setup-config.php 2 -
+/robots.txt 204 -
+/wp-admin/admin-ajax.php 1 http://silasgodfrey.com/wp-admin/admin-ajax.php
+/wp-content/plugins/cache.php 1 http://www.googlebot.com/bot.html
+/wp-includes/js/quicktags.js 1 -
+/market/elfinder.html 1 -
+/backup/preview_1/admin/elfinder/elfinder.html 1 -
+/wp/ 1 -
+/dump.sql 1 http://silasgodfrey.com
+/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/gotha/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/blog/ 1 -
+/backup/preview_Jan27/admin/elfinder/elfinder.html 1 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 1 silasgodfrey.com
+/elfinder1/elfinder.html 1 -
+/blog/robots.txt 1 -
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/erfurt/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+//wp-content/uploads/2017/7/cache.php 1 http://www.googlebot.com/bot.html
+/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/function-sync.php 1 silasgodfrey.com
+/shop/ 1 silasgodfrey.com/shop/
+/yt.php 1 silasgodfrey.com
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/~daycare/assets/elfinder/elfinder.html 1 -
+/lightupfashion/includes/elfinder/elfinder.html 1 -
+/cms/wp-admin/setup-config.php 1 -
+/lib/elfinder/build/elfinder.html 1 -
+/backup/preview_Jan9/admin/elfinder/elfinder.html 1 -
+/packages/ahmadazimi/laravel-media-manager/elfinder.html 1 -
+/allinone/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/wp-admin 1 http://silasgodfrey.com
+/backoffice/js/texteditor/elfinder/elfinder.html 1 -
+/wordpress/ 1 -
+/wp-help.php 1 silasgodfrey.com
+/images/temp.php 1 silasgodfrey.com
+/llx.php 1 -
+/sample.php 1 silasgodfrey.com
+/news/elfinder.html 1 -
+/index 1 -
+/shop 1 silasgodfrey.com/shop
+/wp-content/themes/ut-strange/addpress/includes/ap_fileupload.php 1 http://www.silasgodfrey.com/wp-content/themes/ut-strange/addpress/includes/ap_fileupload.php
+//wp-content/plugins/woocommerce-product-options/includes/image-upload.php 1 http://silasgodfrey.com//wp-content/plugins/woocommerce-product-options/includes/image-upload.php
+/protal/wp-admin/setup-config.php 1 -
+//wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php 1 http://silasgodfrey.com//wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php
+/assets/elfinder1/elfinder.html 1 -
+/erpfilemanager/elfinder.html 1 -
+/_core/utils/elfinder/elfinder.html 1 -
+/sfn.php 1 silasgodfrey.com
+/wp-content/plugins/revslider/temp/update_extract/cache.php 1 http://www.googlebot.com/bot.html
+/temp.php 1 silasgodfrey.com
+/gotha/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/career/elfinder.html 1 -
+/tiny_mce/plugins/elfinder/elfinder.html 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 1 http://silasgodfrey.com/sites/all/libraries/elfinder/php/connector.minimal.php
+/main/wp-admin/setup-config.php 1 -
+//modules/mod_simplefileuploadv1.3/elements/cache.php 1 http://www.googlebot.com/bot.html
+/blogs/wp-admin/setup-config.php 2 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+//wp-admin/admin-ajax.php 1 http://silasgodfrey.com//wp-admin/admin-ajax.php
+/backup/preview_problem/admin/elfinder/elfinder.html 1 -
+/news/wp-admin/setup-config.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://www.silasgodfrey.com/wp-content/plugins/revslider/temp/update_extract/conf.php
+/sitemap.xml 1 -
+/common/js/elfinder_2.0/elfinder.html 1 -
+/xbfk.php 1 -
+/xmlrpc.php 3 -
+/sites/all/libraries/elfinder/files/cache.php 1 http://www.googlebot.com/bot.html
+/rnnvhs.php 1 silasgodfrey.com
+/tiny_mce/plugins/tinybrowser/upload_file.php 1 http://silasgodfrey.com/tiny_mce/plugins/tinybrowser/upload_file.php
+//wp-content/uploads/files/guest/cache.php 1 http://www.googlebot.com/bot.html
+/wp-admin/setup-config.php 3 -
+/backups.php 1 silasgodfrey.com
+/erfurt/erfurt/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/js/tools.js 1 -
+/administrator/ 2 -
+/wp-content/upgrade/theme-compat/popup-pomo.php 1 http://www.silasgodfrey.com/wp-content/upgrade/theme-compat/popup-pomo.php
+/up.php 6 -
+/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/backup/preview_2/admin/elfinder/elfinder.html 1 -
+/wp-login.php 1 -
+/license.php 3 -
+/components/com_content/metadata.xml 1 -
+/uploadify/uploadify.php 1 http://silasgodfrey.com/uploadify/uploadify.php
+//cache.php.suspected_ 1 http://www.googlebot.com/bot.html
+/vendor/barryvdh/elfinder-builds/elfinder.html 1 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 1 http://silasgodfrey.com//modules/mod_simplefileuploadv1.3/elements/udd.php
+/press/wp-admin/setup-config.php 1 -
+/wp-content/uploads/cache.php 1 http://www.googlebot.com/bot.html
+/place1/elfinder/elfinder.html 1 -
+/index.php 2 silasgodfrey.com
+/modules/modules/temp.php 1 silasgodfrey.com
+/cache.php 2 http://www.googlebot.com/bot.html
+/gotha/administrator/components/com_akquickicons/includes/elfinder/elfinder.html 1 -
+/backup/elfinder/elfinder.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 100
+163.172.4.153 5 5 11190 20170731125731
+94.102.51.154 3 3 10962 20170707215300
+188.123.101.16 3 3 6486 20170710110205
+192.99.150.97 3 3 19458 20170709044739
+138.197.111.188 2 3 71526 20170707191505
+52.53.178.253 2 2 2238 20170717202128
+173.208.139.226 2 2 12972 20170721044724
+92.255.99.128 2 2 12972 20170721191525
+64.124.233.94 2 6 167311 20170724131630
+73.157.93.235 2 2 4476 20170707062346
+24.216.56.58 1 4 89088 20170719113023
+66.249.89.14 1 1 2238 20170708173407
+176.10.99.207 1 1 2238 20170725175446
+54.159.190.223 1 1 2238 20170717205856
+67.169.71.1 1 4 89088 20170730144534
+54.172.128.231 1 1 2238 20170720204203
+203.217.244.128 1 1 2238 20170723232356
+199.19.104.163 1 1 2238 20170728190704
+104.154.74.224 1 1 2238 20170714092905
+47.90.91.86 1 1 2238 20170716142114
+176.53.23.243 1 1 2238 20170724111523
+86.123.236.36 1 3 88959 20170705005101
+220.181.108.104 1 2 73536 20170716043458
+138.197.111.175 1 1 2238 20170721075218
+52.41.112.231 1 1 6486 20170720061141
+163.172.105.72 1 1 2238 20170724033940
+34.207.231.70 1 1 2238 20170705205051
+138.197.96.250 1 1 2238 20170727191506
+54.172.198.146 1 1 2238 20170725204730
+54.193.0.157 1 3 88959 20170717202128
+138.197.96.197 1 1 2238 20170714144853
+34.224.22.52 1 1 2238 20170730203559
+138.197.111.49 1 1 2238 20170724202223
+38.100.21.63 1 2 73536 20170705160136
+138.197.1.38 1 2 69288 20170722065335
+54.164.7.88 1 1 2238 20170706210547
+69.58.178.56 1 1 6486 20170702093632
+184.72.69.37 1 1 2238 20170719205720
+104.236.20.199 1 1 6486 20170723105934
+35.188.58.204 1 1 2238 20170705122135
+54.196.81.228 1 2 12974 20170716124807
+34.228.80.194 1 1 2238 20170731203846
+64.46.30.83 1 4 89088 20170708095259
+162.212.36.2 1 5 165073 20170714124234
+52.90.96.50 1 1 2238 20170724203639
+206.180.171.149 1 1 2238 20170708033906
+54.147.91.120 1 1 2238 20170710210214
+138.197.111.115 1 1 2238 20170706154127
+114.115.190.4 1 1 2238 20170710042009
+54.163.56.13 1 1 6486 20170706044706
+138.197.96.208 1 1 2238 20170730181903
+52.90.162.230 1 1 2238 20170703001930
+54.173.114.229 1 1 2238 20170704204315
+194.44.247.218 1 1 6486 20170706122434
+159.203.108.239 1 2 69288 20170703015749
+138.197.73.73 1 2 69288 20170729092332
+138.197.111.143 1 1 2238 20170703140305
+52.90.159.52 1 1 2238 20170714210603
+104.197.218.121 1 1 2238 20170706050655
+54.152.20.41 1 1 2238 20170724062726
+138.197.96.97 1 1 2238 20170717203016
+220.181.108.95 0 1 67050 
+138.197.73.162 1 2 69288 20170710135610
+34.229.226.113 1 1 2238 20170715210222
+220.181.108.181 1 1 6486 20170728114632
+52.54.129.150 1 1 2238 20170711210407
+138.197.111.213 1 2 69288 20170725232459
+54.157.51.154 1 1 2238 20170702154051
+178.33.54.161 1 1 2238 20170713232930
+111.125.66.35 0 1 75985 
+54.163.102.214 1 1 2238 20170716210329
+146.185.223.122 1 1 6486 20170711111146
+138.197.111.210 1 1 2238 20170718092334
+159.203.96.191 1 2 69288 20170713024220
+54.90.150.48 1 1 2238 20170727204158
+216.69.191.97 1 1 6486 20170726041858
+104.40.190.160 1 1 6486 20170701164845
+76.126.32.144 1 4 89088 20170729011508
+94.23.75.60 1 1 2238 20170724234348
+34.204.82.216 1 1 2238 20170721204250
+54.193.96.198 1 1 2238 20170717202115
+99.255.153.167 1 1 6486 20170708001939
+34.229.242.77 1 1 2238 20170709210442
+54.234.162.200 1 1 2238 20170729203738
+88.99.141.3 1 1 2238 20170717190314
+138.197.73.210 1 2 69288 20170715161617
+34.227.159.249 1 1 2238 20170713210230
+34.203.77.215 1 1 2238 20170718211748
+138.201.137.212 1 1 2238 20170712110910
+8.25.197.27 1 4 89088 20170710104042
+184.73.25.146 1 1 2238 20170726204137
+178.137.83.166 1 1 6486 20170725132938
+34.207.135.150 1 1 2238 20170703204415
+138.197.111.116 1 1 2238 20170711061108
+54.175.180.211 1 1 2238 20170722204131
+54.89.104.0 1 1 2238 20170708210650
+34.205.129.239 1 1 2238 20170707210417
+185.51.247.28 1 1 6486 20170716005436
+34.227.13.155 1 1 2238 20170712210332
+158.69.229.69 1 1 6486 20170718170654
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 1 1 6486 1
+20170702 2 2 8724 2
+20170703 4 5 76002 4
+20170704 1 1 2238 1
+20170705 6 11 318730 6
+20170706 6 6 21924 6
+20170707 6 6 13428 5
+20170708 5 8 102288 5
+20170709 4 4 21696 2
+20170710 7 11 169338 5
+20170711 3 3 10962 3
+20170712 3 3 6714 3
+20170713 3 4 73764 3
+20170714 4 7 95802 4
+20170715 2 3 71526 2
+20170716 5 7 97472 5
+20170717 7 9 100149 6
+20170718 4 4 13200 4
+20170719 3 10 256399 3
+20170720 2 2 8724 2
+20170721 6 6 30420 4
+20170722 2 3 71526 2
+20170723 2 2 8724 2
+20170724 8 8 17904 8
+20170725 4 5 80250 4
+20170726 2 3 84709 2
+20170727 2 2 4476 2
+20170728 2 3 75774 2
+20170729 3 7 160614 3
+20170730 3 6 93564 3
+20170731 2 2 4476 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 106
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 114 350370 106 106
+END_SIDER

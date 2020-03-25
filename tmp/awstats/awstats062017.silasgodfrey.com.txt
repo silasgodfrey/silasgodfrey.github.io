@@ -1,0 +1,812 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201706 will be lost/reset.
+# Last config file used to build this data file was /home/silasgodfrey/tmp/awstats/awstats.silasgodfrey.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2682                
+POS_VISITOR 20182               
+POS_DAY 23939               
+POS_DOMAIN 3404                
+POS_LOGIN 3836                
+POS_ROBOT 3991                
+POS_WORMS 4501                
+POS_EMAILSENDER 4632                
+POS_EMAILRECEIVER 4775                
+POS_SESSION 24623               
+POS_SIDER 24801               
+POS_FILETYPES 4910                
+POS_DOWNLOADS 5045                
+POS_OS 5093                
+POS_BROWSER 5367                
+POS_SCREENSIZE 6469                
+POS_UNKNOWNREFERER 6543                
+POS_UNKNOWNREFERERBROWSER 6905                
+POS_ORIGIN 7050                
+POS_SEREFERRALS 7184                
+POS_PAGEREFS 7339                
+POS_SEARCHWORDS 7611                
+POS_KEYWORDS 7763                
+POS_MISC 2346                
+POS_ERRORS 7822                
+POS_CLUSTER 3692                
+POS_SIDER_404 7925                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170701005758 22 3441 10580240858095
+FirstTime 0
+LastTime 20170630201421
+LastUpdate 20170701051054 22 0 21 0 0
+TotalVisits 105                 
+TotalUnique 96                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 96                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 7 108546 33 46 159971
+1 6 7 97470 14 30 61379
+2 7 7 28410 8 18 53448
+3 4 7 95802 17 28 79490
+4 3 3 10962 5 12 19517
+5 1 3 88959 16 18 49050
+6 8 8 30648 41 48 105054
+7 5 8 98040 5 10 12159
+8 8 14 191604 10 18 51595
+9 5 5 11190 10 32 64147
+10 8 11 121746 4 9 16946
+11 2 2 12972 7 18 60662
+12 2 2 4476 6 14 47999
+13 3 5 97683 7 22 49978
+14 3 3 6714 122 259 223505
+15 2 2 4476 8 22 115669
+16 5 5 23934 8 19 34865
+17 5 8 102288 7 15 22939
+18 7 9 106635 15 27 126713
+19 5 5 17448 40 58 119832
+20 7 8 95460 16 26 59843
+21 6 9 108774 14 29 37200
+22 8 10 125865 20 38 139063
+23 2 2 4476 29 52 100821
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 59 82 1041267
+ca 11 16 217191
+gb 7 7 24162
+fr 7 7 19914
+cn 6 6 13428
+eu 4 4 25944
+ua 3 3 6714
+za 3 3 6714
+de 3 3 6714
+nl 3 3 15210
+vn 2 8 178176
+ru 2 2 8724
+ro 2 2 8724
+it 1 1 6486
+tw 1 1 6486
+jp 1 1 6486
+kr 1 1 2238
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 75 177437 20170630195628 0
+googlebot 68 330642 20170629185842 0
+spider 47 164672 20170630211438 0
+robot 14 105079 20170630125454 0
+no_user_agent 14 90804 20170630180055 0
+crawl 12 102516 20170630071526 0
+bingpreview 3 153771 20170622004205 0
+checker 3 6714 20170615095056 0
+[\s_+:,\.\;\/\\-]bot 2 0 20170621203029 0
+googlebot\-image 1 129 20170626161405 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpg 12 911820 0 0
+css 14 262932 0 0
+html 116 418794 0 0
+png 8 1032 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+winlong 2 2
+win2003 2 1
+macosx6 1 1
+bsdopenbsd 1 1
+winnt 16 10
+macosx5 1 1
+win8.1 8 7
+linuxandroid 1 1
+linuxubuntu 1 1
+ios_iphone 9 3
+winxp 16 16
+linux 11 11
+win7 33 30
+Unknown 6 6
+macosx9 15 15
+macosx 27 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+firefox39.0 1 1
+msie6.0 4 4
+chrome37.0.2049.0 1 1
+chrome45.0.2454.94 1 1
+safari10.0 3 1
+firefox3.6.12 1 1
+chrome35.0.1916.114 2 2
+firefox29.0 4 4
+firefox52.0 4 4
+msie9.0 3 3
+chrome50.0.2661.75 2 2
+chrome58.0.3029.96 1 1
+firefox51.0 1 1
+chrome34.0.1847.131 7 6
+firefox30.0 1 1
+chrome56.0.2924.87 4 4
+chrome40.0.2214.115 1 1
+chrome26.0.1410.63 1 1
+chrome52.0.2767.86 1 1
+firefox10.0 1 1
+msie8.0 2 2
+chrome34.0.1847.116 1 1
+chrome58.0.3029.110 20 8
+msie7.0 2 1
+safari7.0.3 1 1
+chrome33.0.1750.152 5 5
+chrome38.0.2125.111 1 1
+firefox3.5.0 2 2
+msie11.0 1 1
+chrome11.0.696.43 1 1
+safari10.1.1 8 3
+mozilla 4 4
+firefox21.0 1 1
+chrome36.0.1985.125 3 3
+chrome47.0.2526.106 1 1
+firefox43.0 1 1
+Unknown 2 2
+iphone 6 2
+firefox7.0.1 4 4
+firefox28.0 5 5
+firefox3.0 1 1
+chrome55.0.2883.95 1 1
+firefox48.0 1 1
+firefox3.6.3 1 1
+chrome57.4.2987.160 4 1
+firefox33.0 3 3
+chrome52.0.2743.116 1 1
+chrome31.0.1650.57 2 2
+firefox31.0 2 2
+chrome59.0.3071.86 8 2
+firefox3.6.28 1 1
+chrome39.0.2171.95 1 1
+chrome37.0.2062.120 4 4
+firefox26.0 3 3
+firefox15.0.1 1 1
+firefox27.3 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_ips-agent) 20170606203558
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20170607173644
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170602221504
+Go-http-client/1.1 20170615181500
+HEADMasterSEO 20170627190824
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20170615181500
+HEADMasterSEO 20170627190824
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 70 72
+From1 3 3
+From2 9 9
+From3 6 6
+From4 28 60
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://burger-imperia.com 3 3
+http://l.instagram.com 1 1
+http://pizza-tycoon.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 618 654137
+206 4 25944
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 347
+/base/login/login.php 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/modules/tadtools/ckeditor/elFinder/elfinder.html 1 -
+/tiki2/tiki-calendar.php 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/customdir/images/english_logo.jpg 1 -
+/system/Update.aspx 1 -
+/tat/tiki-calendar.php 1 -
+/readme.html 1 -
+/app/elfinder/elfinder.html 1 -
+/Ntalker/lawfirm.aspx 1 -
+/admin/ 1 -
+//wp-content/uploads/2017/6/cache.php 1 http://www.googlebot.com/bot.html
+/Contact 1 -
+/backoffice/js/texteditor/elfinder/elfinder.html 1 -
+/examples/file-manager.html 1 -
+/js/buttons.js 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/master/login.aspx 1 -
+/images/zh-CN/logo.ico 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/ms/local/vendor/barryvdh/elfinder-builds/elfinder.html 1 -
+/console/include/not_login.htm 1 -
+/bencandy.php 1 -
+/tw/tiki-calendar.php 1 -
+/1172034 2 -
+/1172495/Email-Marketing 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/plug/publish 1 -
+/Error.aspx 1 -
+/REM_EDX/tiki-calendar.php 1 -
+/system/language/zh-cn.xml 1 -
+/licence.txt 1 -
+/images/logo_product-cml.png 1 -
+/index.cgi 1 -
+/list.php 1 -
+//js/close.gif 1 -
+/packages/ahmadazimi/laravel-media-manager/elfinder.html 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/doku.php 1 -
+/jcms/index.jsp 1 -
+/tiki/tiki-calendar.php 1 -
+/inc/playerKinds.xml 1 -
+/following/janedorn.com/Glass-House 1 -
+/License.txt 1 -
+/style/default/hdwiki.css 1 -
+/images/logo-white.png 1 -
+/README.txt 1 -
+/index.php 8 -
+/wp/wp-admin/setup-config.php 3 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/rss.aspx 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/authority/elfinder/elfinder.html 1 -
+/jcms/index_jcms.jsp 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/moodletreinar/elfinder/elfinder.html 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/Resume 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/admin/index.php 1 -
+/administrator/ 3 -
+/login/Jeecms.do 1 -
+/1241102 1 -
+//modules/mod_simplefileuploadv1.3/elements/udd.php 1 http://silasgodfrey.com//modules/mod_simplefileuploadv1.3/elements/udd.php
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/max-templates/classic/styles/app.css 1 -
+/siteserver/upgrade/default.aspx 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/Images/login/biaoti.jpg 1 -
+/history.txt 1 -
+/images/2_11.gif 1 -
+/.git/ 1 http://silasgodfrey.com/.git/
+/images/Default_bg_002.gif 1 -
+/Images/login/mainlogo.gif 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/app/home/skins/default/style.css 1 -
+//uploadify/uploadify.php 2 http://www.silasgodfrey.com//wp-admin/
+/wp-content 1 -
+/ 2 http://www.silasgodfrey.com//wp-admin/
+/wp-admin/admin-ajax.php 1 http://silasgodfrey.com/wp-admin/admin-ajax.php
+/was/main.html 1 -
+/wp-cron.php 1 -
+//wp-admin/admin-ajax.php 1 http://silasgodfrey.com//wp-admin/admin-ajax.php
+/wiki5/tiki-calendar.php 1 -
+/backup/elfinder/elfinder.html 1 -
+/en/admin/elfinder/elfinder.html 1 -
+/app/images/login/toplogo.gif 1 -
+/default/images/logo.gif 1 -
+/_core/utils/elfinder/elfinder.html 1 -
+/ckeditor/ckeditor.js 1 -
+/wcm/ 1 -
+/admin/login.asp 1 -
+/images/hwem.css 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/sitemap.xml 6 -
+/auth/login 1 -
+/admin/editor/ 1 -
+/bbs/ 1 -
+/dialog/dialog.js 1 -
+/extman/default/images/logo.gif 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/next/img/logo.gif 1 -
+/include/dedeajax2.js 1 -
+/phpmyadmin/ 1 -
+/ckfinder/ckfinder.html 1 -
+/examples/readonly.html 1 -
+/_backup/library/elfinder/elfinder.html 1 -
+/examples/index.html 1 -
+/include/dialog/config.php 1 -
+/docs.css 1 -
+//wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php 1 http://silasgodfrey.com//wp-content/plugins/jquery-html5-file-upload/jquery-html5-file-upload.php
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/family/view/elfinder/elfinder.html 1 -
+/404.jpg 1 -
+/phpmyadmin/docs.css 1 -
+/preview/admin/elfinder/elfinder.html 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/main/tiki-calendar.php 1 -
+/images/jlogo.php 1 silasgodfrey.com
+/was/help.jsp 1 -
+/Email-Marketing 1 -
+/fckeditor.js 1 -
+/1172879 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/plus/rssmap.html 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/system/Login.aspx 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/app/images/login/logo.png 1 -
+/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/~daycare/assets/elfinder/elfinder.html 1 -
+/User/Login.aspx 1 -
+/Wq_StranJF.js 1 -
+/console/auth/reg_newuser.jsp 1 -
+/Help 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+/wp-content/plugins/users-ultra/readme.txt 1 -
+/administrator/index.php 4 -
+/js/ajax_x.js 1 -
+/business/images/index-gg1.jpg 1 -
+/uploadify/uploadify.php 1 http://silasgodfrey.com/uploadify/uploadify.php
+/archiver/ 1 -
+/help/en/h_authenticate.html 1 -
+/admin/inc/xml.xslt 1 -
+/kindeditor.js 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/administrator/components/com_jvframework/libraries/elfinder-2.0-rc1/elfinder.html 1 -
+/wordpress/wp-admin/setup-config.php 3 -
+/public/about.html 1 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 1 silasgodfrey.com
+/test/wp-admin/setup-config.php 3 -
+/common/js/elfinder_2.0/elfinder.html 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/images/logo_88x31.gif 1 -
+/admin/login.aspx 1 -
+/Include/EcsServerApi.js 1 -
+/wp-admin/ 3 http://silasgodfrey.com/wp-login.php
+/blog/wp-admin/setup-config.php 3 -
+/news/elfinder.html 1 -
+/fckeditor/license.txt 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/FCK/fckeditor.js 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/plus/heightsearch.php 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/market/elfinder.html 1 -
+/weblog/ 1 -
+/whir_system/login.aspx 1 -
+/pub/guiedit/guiedit.js 1 -
+/tools/rss.aspx 1 -
+/Editor.js 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/feed.asp 1 -
+/admin/admin_login.php 1 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/2672204/Under-Construction 1 -
+/extern.php 1 -
+/templates/jtemplate/jtemplate.php 1 silasgodfrey.com
+/assets/elfinder1/elfinder.html 1 -
+/wp-content/plugins/revslider/temp/update_extract/conf.php 1 http://www.silasgodfrey.com/wp-content/plugins/revslider/temp/update_extract/conf.php
+/themes/default/default.css 1 -
+/Install/logo.gif 1 -
+/5/tiki-calendar.php 1 -
+/templates/j2template/j2template.php 1 silasgodfrey.com
+/wp-content/uploads/yt.php 1 silasgodfrey.com
+/assets/elfinder/back/elfinder.html 1 -
+/test_404_page/ 1 -
+/1172887 2 -
+/m 1 -
+/inc/Templates/rss.xslt 1 -
+//modules/mod_simplefileuploadv1.3/elements/cache.php 1 http://www.googlebot.com/bot.html
+/1171968 1 -
+/siteserver/login.aspx 1 -
+/img/pic/login/top-left.jpg 1 -
+/Images/login/lefttu.jpg 1 -
+/issmall/ 1 -
+/plus/sitemap.html 1 -
+/maintlogin.jsp 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/plugins/anchor/anchor.js 1 -
+/plus/download.php 1 -
+/static/images/logo/webserver_small.gif 1 -
+/themes/graphics/horde-power1.png 1 -
+/forum/ 1 -
+/license.php 4 http://silasgodfrey.com/license.php
+/fckeditor/fckconfig.js 1 -
+/admin/js/IdSUtil.js 1 -
+/inc/rsd.php 1 -
+/images/login_Name.jpg 1 -
+/images/login/icon-up.gif 1 -
+/kindeditor-min.js 1 -
+/twc/tiki-calendar.php 1 -
+/member/space/company/info.txt 1 -
+/changelog.txt 1 -
+/install 1 -
+/plus/img/wbg.gif 1 -
+/rss.php 1 -
+/following/postswithcomments 1 -
+/forum.php 1 -
+/digg.php 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/nobody/mobile.htm 1 -
+/cache.php 2 http://www.googlebot.com/bot.html
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/script/valid_formdata.js 1 -
+/script/login.js 1 -
+/tiny_mce/plugins/tinybrowser/upload_file.php 1 http://silasgodfrey.com/tiny_mce/plugins/tinybrowser/upload_file.php
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/static/hgicon.png 1 -
+/deptWebsiteAction.do 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 1 http://silasgodfrey.com/sites/all/libraries/elfinder/php/connector.minimal.php
+/DrDash-Typeface 1 -
+/wp-content/plugins/revslider/temp/update_extract/cache.php 1 http://www.googlebot.com/bot.html
+/data/images/wap_logo.gif 1 -
+//wp-content/plugins/woocommerce-product-options/includes/image-upload.php 1 http://silasgodfrey.com//wp-content/plugins/woocommerce-product-options/includes/image-upload.php
+/console/js/CTRSRequestParam.js 1 -
+/fckeditor/fckeditor.js 1 -
+//wp-content/uploads/files/guest/cache.php 1 http://www.googlebot.com/bot.html
+/docs/DOCUMENTATION.txt 1 -
+/ks_inc/ajax.js 1 -
+/Search.html 1 -
+/admin/start/index.php 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/docs/ 1 -
+/_sub/authority/elfinder/elfinder.html 1 -
+/place1/elfinder/elfinder.html 1 -
+/uploads/admin/elfinder/elfinder.html 1 -
+/wp-content/plugins/cache.php 1 http://www.googlebot.com/bot.html
+/ckfinder/install.txt 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/images/branding/logo.gif 1 -
+/admin/login.php 1 -
+/user/register 1 -
+/public/js/ipb.js 1 -
+/blog/ 2 http://silasgodfrey.com/blog/
+/ymail/images/index_r1_c4.jpg 1 -
+/help/user/index.html 1 -
+/admin/template/article_more/config.htm 1 -
+/console/js/CWCMDialogHead.js 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/uc_server/control/admin/db.php 1 -
+/data/admin/ver.txt 1 -
+//plus/img/wbg.gif 1 -
+/stylesheet.css 1 -
+/career/elfinder.html 1 -
+/archive/archive.css 1 -
+/logo/logo_jw.png 1 -
+/app/login.jsp 1 -
+/admin.php 6 -
+/was5/web/index.jsp 1 -
+/images/default/post_bt.gif 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/advfile/ad12.js 1 -
+/common/common.js 1 -
+/datacenter/downloadApp/showDownload.do 1 -
+/admin 4 -
+/templates/jtemplate/j1template.php 1 silasgodfrey.com
+/system/skins/default/system.login.htm 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/template/home.htm 1 -
+/CHANGELOG.txt 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/lang/en.js 1 -
+//cache.php.suspected_ 1 http://www.googlebot.com/bot.html
+/images/login9/login_33.jpg 1 -
+/about/ 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/Admin/Login.aspx 1 -
+/archiver 1 -
+/erpfilemanager/elfinder.html 1 -
+/editor/fckeditor.js 1 -
+/default/css/em_css.css 1 -
+/common/help/images/helplogo.gif 1 -
+/images/login/eyoumail.gif 1 -
+/wp-content/uploads/cache.php 1 http://www.googlebot.com/bot.html
+/yt2.php 1 silasgodfrey.com
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/ids/admin/login.jsp 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/license.txt 1 -
+/admin/wys/elfinder/elfinder.html 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/include/install_ocx.aspx 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/modules/mod_j2module/mod_j2module.php 1 silasgodfrey.com
+/whir_system/module/security/login.aspx 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/modules/mod_jmodule/mod_j1module.php 1 silasgodfrey.com
+/includes/general.js 1 -
+/plugin.php 1 -
+/images/login/logo.gif 1 -
+/published/wbsadmin/html/scripts/balance.php 1 -
+/modules/modules/temp.php 1 silasgodfrey.com
+/nicasia/assets/elfinder/elfinder.html 1 -
+/cgi/index.cgi 1 -
+/elfinder1/elfinder.html 1 -
+/lib/elfinder/build/elfinder.html 1 -
+/dev/elfinder/elfinder.html 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/sites/all/libraries/elfinder/files/cache.php 1 http://www.googlebot.com/bot.html
+/ee/tiki-calendar.php 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/wp-login.php 6 -
+//index.php 1 -
+/index 2 -
+/Admin/Common/HelpLinks.xml 1 -
+/asp.net/README.txt 1 -
+/forums/list.page 1 -
+/bigmart/js/ves_base/elfinder/elfinder.html 1 -
+/api/api_user.xml 1 -
+/robots.txt 220 -
+/plugins/filemanager/filemanager/js 1 -
+/old/wp-admin/setup-config.php 3 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/e/master/login.aspx 1 -
+/1485211 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 96
+163.172.4.153 4 4 8952 20170620095044
+77.243.183.75 4 4 25944 20170630102623
+142.4.218.236 3 3 19458 20170602221505
+125.64.94.206 3 3 6714 20170609144311
+196.54.55.30 3 3 6714 20170625185637
+64.46.30.83 2 7 178047 20170614213048
+47.92.38.108 2 2 4476 20170607080806
+207.141.13.226 2 7 178047 20170606130646
+208.90.57.196 2 2 12972 20170603185028
+69.181.30.19 2 8 178176 20170615082143
+159.203.91.98 2 2 12972 20170606112354
+115.72.211.154 2 8 178176 20170606032001
+138.197.111.192 2 2 4476 20170621162240
+52.87.86.158 1 1 2238 20170623175832
+69.58.178.56 1 1 6486 20170606203558
+38.100.21.63 1 2 73536 20170606015025
+192.99.147.201 1 1 0 20170622190938
+173.93.238.118 1 3 88959 20170615055258
+23.254.89.151 1 1 2238 20170607071222
+138.197.111.86 1 1 2238 20170624010028
+185.188.182.229 1 1 2238 20170605081135
+138.197.111.141 1 1 2238 20170630123341
+80.14.91.141 1 1 2238 20170620065211
+185.7.215.161 1 1 6486 20170612015256
+199.91.135.163 1 1 6486 20170614100306
+138.197.111.175 1 1 2238 20170602210819
+138.197.96.243 1 1 2238 20170607040620
+54.92.147.89 1 1 6486 20170607013756
+54.173.240.61 1 1 2238 20170622073628
+167.114.228.206 1 1 6486 20170611135436
+35.192.8.0 1 1 2238 20170615063854
+138.197.111.191 1 2 69288 20170630201421
+47.88.219.169 1 1 6486 20170630024026
+138.197.65.92 1 1 2238 20170614035627
+107.4.231.241 1 3 88959 20170616182625
+188.213.134.148 1 1 6486 20170608001001
+158.69.228.56 1 1 2238 20170623094610
+8.28.16.254 1 1 6486 20170614100305
+65.126.152.254 1 4 89088 20170614100304
+45.32.128.51 1 1 6486 20170615065711
+138.197.111.46 1 1 2238 20170617134311
+159.203.70.167 1 1 2238 20170605041313
+138.197.96.199 1 1 2238 20170620190246
+192.187.100.58 1 1 6486 20170613005515
+37.187.78.81 1 1 2238 20170622020624
+85.14.250.137 1 1 2238 20170604151621
+138.197.111.188 1 1 2238 20170626063951
+118.89.113.57 1 1 2238 20170602172546
+138.197.96.247 1 1 2238 20170627070141
+35.192.15.109 1 1 2238 20170616023118
+34.210.77.131 1 1 6486 20170624062325
+59.2.167.111 1 1 2238 20170615181500
+146.185.144.64 1 1 2238 20170609085622
+34.203.208.181 1 1 6486 20170606205750
+45.55.225.186 1 1 2238 20170623224432
+150.70.173.12 1 1 6486 20170619011730
+138.197.66.234 1 1 2238 20170612095742
+138.197.71.143 1 1 2238 20170610200928
+35.192.41.63 1 1 2238 20170615085025
+4.15.79.98 1 4 89088 20170613171630
+178.33.54.161 1 1 2238 20170608104903
+54.214.189.159 1 1 6486 20170604221211
+54.146.50.253 1 1 2238 20170613204929
+188.165.26.121 1 1 2238 20170618025006
+138.197.96.40 1 1 2238 20170609222628
+118.163.216.107 1 1 6486 20170624205125
+148.251.90.10 1 1 2238 20170613030829
+198.27.85.233 1 1 6486 20170617161032
+159.203.77.108 1 1 2238 20170607120000
+216.69.191.97 1 1 6486 20170607003704
+107.174.254.20 1 1 2238 20170607071225
+52.191.174.84 1 1 6486 20170615020206
+35.188.73.17 1 1 2238 20170616065103
+94.102.51.154 1 1 6486 20170609190702
+88.99.68.199 1 1 2238 20170617093140
+138.197.13.231 1 1 2238 20170619102450
+91.210.147.48 1 1 2238 20170607150830
+34.223.218.57 1 1 6486 20170616213218
+37.48.68.247 1 1 6486 20170628223504
+178.33.39.197 1 1 2238 20170626230329
+149.202.98.161 1 1 2238 20170624195601
+185.100.86.128 1 1 2238 20170625185624
+45.55.251.205 1 1 2238 20170617032324
+35.188.63.191 1 1 2238 20170614091701
+95.213.184.251 1 1 6486 20170605042046
+51.141.39.94 1 1 6486 20170627190824
+128.199.194.131 1 1 6486 20170619061127
+34.210.127.217 1 1 6486 20170607173644
+37.1.207.21 1 1 2238 20170630084500
+138.197.65.174 1 1 2238 20170602200400
+166.70.207.2 1 1 2238 20170627065133
+46.165.223.217 1 1 2238 20170626234249
+199.10.28.20 1 1 2238 20170615160352
+192.160.102.164 1 1 2238 20170623102450
+91.210.144.211 1 1 2238 20170606214133
+79.137.85.189 1 1 6486 20170624211905
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20170601 1 4 89088 1
+20170602 7 7 32658 5
+20170603 2 2 8724 2
+20170604 2 2 8724 2
+20170605 3 3 10962 3
+20170606 9 18 368853 8
+20170607 10 10 35124 9
+20170608 3 3 10962 3
+20170609 6 6 17676 4
+20170610 1 1 2238 1
+20170611 2 4 95445 2
+20170612 2 2 8724 2
+20170613 4 7 100050 4
+20170614 8 14 200100 8
+20170615 9 17 289059 8
+20170616 4 6 99921 4
+20170617 4 4 13200 4
+20170618 1 1 2238 1
+20170619 3 3 15210 3
+20170620 3 3 6714 3
+20170621 1 1 2238 1
+20170622 3 3 4476 3
+20170623 4 4 8952 4
+20170624 5 5 23934 5
+20170625 4 4 8952 2
+20170626 3 3 6714 3
+20170627 3 3 10962 3
+20170628 1 1 6486 1
+20170629 2 2 12972 1
+20170630 6 7 93222 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+2mn-5mn 1
+30s-2mn 1
+0s-30s 102
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 116 418794 105 105
+END_SIDER

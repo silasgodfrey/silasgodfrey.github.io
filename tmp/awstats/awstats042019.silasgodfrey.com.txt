@@ -1,0 +1,796 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201904 will be lost/reset.
+# Last config file used to build this data file was /home/silasgodfrey/tmp/awstats/awstats.silasgodfrey.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2696                
+POS_VISITOR 20457               
+POS_DAY 24794               
+POS_DOMAIN 3429                
+POS_LOGIN 3862                
+POS_ROBOT 4017                
+POS_WORMS 5063                
+POS_EMAILSENDER 5194                
+POS_EMAILRECEIVER 5337                
+POS_SESSION 25503               
+POS_SIDER 25671               
+POS_FILETYPES 5472                
+POS_DOWNLOADS 5609                
+POS_OS 5657                
+POS_BROWSER 5967                
+POS_SCREENSIZE 7180                
+POS_UNKNOWNREFERER 7254                
+POS_UNKNOWNREFERERBROWSER 7678                
+POS_ORIGIN 7965                
+POS_SEREFERRALS 8105                
+POS_PAGEREFS 8309                
+POS_SEARCHWORDS 8539                
+POS_KEYWORDS 8702                
+POS_MISC 2360                
+POS_ERRORS 8772                
+POS_CLUSTER 3718                
+POS_SIDER_404 8875                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190501024747 85 15015 12572195252580
+FirstTime 20190401030957
+LastTime 20190430220233
+LastUpdate 20190501050821 85 0 83 0 1
+TotalVisits 165                 
+TotalUnique 109                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 112                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 6720 7 13 16959
+1 10 16 329942 12 19 37509
+2 6 6 13199 12 18 36397
+3 8 8 22159 4 8 10464
+4 6 6 11200 22 37 71602
+5 10 20 285078 5 19 712386
+6 4 4 17438 16 29 53139
+7 6 10 175818 9 13 29303
+8 7 15 273861 62 78 361511
+9 8 10 108880 9 17 32699
+10 6 6 13440 3 4 4270
+11 4 5 88727 15 22 41211
+12 2 2 8719 2 10 75403
+13 4 4 13199 6 19 26680
+14 4 5 92966 4 10 47978
+15 10 14 180539 4 11 14532
+16 8 9 54090 182 199 336060
+17 3 3 10959 20 27 115459
+18 8 11 121726 26 42 106290
+19 1 2 17215 52 60 113986
+20 13 24 382172 6 14 248296
+21 3 6 97809 10 17 32939
+22 69 70 173774 93 249 424069
+23 1 1 6479 6 11 90174
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 157 195 1646502
+cn 12 13 80006
+ca 9 13 249459
+nl 5 9 188881
+ru 5 5 28156
+ir 2 2 12958
+fr 2 2 4480
+ua 2 2 4480
+de 2 2 6479
+cl 1 1 2240
+eu 1 1 6479
+gr 1 1 0
+az 1 1 6479
+in 1 4 89090
+zz 1 1 2240
+ph 1 4 89090
+ie 1 4 89090
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 25
+Googlebot/ 50 150223 20190430220232 0
+YandexBot/ 40 76934 20190430042713 0
+(firefox/)([0-9]\.|[0-1][0]\.) 32 198850 20190430220232 0
+no_user_agent 22 1165932 20190427053817 0
+360Spider 22 49280 20190428192021 0
+MJ12bot/ 13 84227 20190428181216 0
+bingbot/ 10 22400 20190427075721 0
+AhrefsBot/ 7 15680 20190427010703 0
+Exabot/ 7 15680 20190426063152 0
+spider 6 25952 20190427112108 0
+Uptimebot/ 6 0 20190427115808 0
+bingpreview 4 211886 20190420181235 0
+Mail\.RU_Bot/ 4 8960 20190405062633 0
+bot[\s_+:,\.\;\/\\-] 4 25916 20190430165745 0
+Applebot/ 3 4609 20190421060449 0
+SemrushBot/ 3 6720 20190418170918 0
+BLEXBot/ 2 4480 20190411182413 0
+aiHitBot/ 2 12976 20190404053140 0
+baidu 2 6479 20190425165219 0
+SeznamBot/ 1 0 20190412024430 0
+Baiduspider/ 1 2240 20190421024038 0
+crawl 1 2240 20190408172524 0
+MegaIndex\.ru/ 1 2240 20190404074406 0
+Python\-urllib/ 1 6479 20190401080415 0
+CCBot/ 1 2240 20190415090617 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 27 684070 0 0
+png 13 1677 0 0
+html 204 604602 0 0
+jpg 16 1215760 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+winnt 1 1
+macosx8 1 1
+win8.1 4 4
+win10 30 16
+linuxandroid 5 2
+linux 32 22
+macosx11 12 12
+win7 29 19
+win8 5 3
+winlong 33 33
+linuxubuntu 3 1
+macosx12 18 18
+win2003 2 1
+macosx6 1 1
+macosx 16 5
+ios_iphone 34 31
+macosx10 2 2
+winxp 4 4
+Unknown 28 28
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 58
+firefox43.0 2 1
+netscape 1 1
+firefox53.0 2 2
+chrome66.0.3359.117 1 1
+chrome53.0.2785.143 1 1
+msie10.0 1 1
+iphone 30 30
+firefox59.0 1 1
+chrome60.0.3112.101 2 2
+opera53.0.2907.99 1 1
+mozilla 5 5
+firefox50.0 1 1
+chrome70.0.3538.102 2 0
+chrome70.0.3538.77 1 1
+chrome34.0.1847.131 2 2
+chrome64.0.3282.186 6 6
+chrome50.0.2661.102 2 2
+chrome46.0.2490.80 1 1
+chrome61.0.3163.100 12 12
+chrome41.0.2272.89 1 1
+firefox24.0 1 1
+msie8.0 31 31
+chrome68.0.3440.106 1 1
+safari5.4.9 1 1
+msie7.0 4 3
+chrome5.0.375.99 2 2
+firefox47.0 9 9
+chrome73.0.3683.90 4 1
+Unknown 24 24
+chrome73.0.3683.86 14 4
+msie11.0 3 3
+safari12.0 4 1
+chrome69.0.3497.81 3 1
+chrome40.0.2214.93 1 1
+chrome68.0.3440.84 1 1
+chrome41.0.2225.0 1 1
+chrome67.0.3396.87 1 1
+edge17 4 1
+chrome34.0.1847.116 1 1
+chrome58.0.3029.110 4 4
+chrome45.0.2454.94 1 1
+chrome75.0.3738.0 2 1
+chrome26.0.1410.65 1 1
+chrome73.0.3683.103 12 3
+msie9.0 2 2
+chrome49.0.2623.75 2 1
+chrome72.0.3607.0 3 1
+firefox58.0 1 1
+firefox65.0 1 1
+chrome40.0.2214.85 4 1
+chrome62.0.3202.89 2 2
+chrome42.0.2311.90 1 1
+chrome65.0.3325.181 23 17
+chrome74.0.3729.108 8 2
+chrome41.0.2228.0 5 2
+chrome66.0.3359.66 1 1
+chrome10.0.648.127 1 1
+msie6.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla 20190412043744
+Scrapy/1.6.0_(_https://scrapy.org) 20190414084901
+Go-http-client/1.1 20190429041950
+okhttp/3.2.0 20190410034616
+The_Knowledge_AI 20190429151126
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190418162230
+Mozilla/5.0_(compatible;_ips-agent) 20190418053932
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20190425222943
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Go-http-client/1.1 20190429041950
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20190425222943
+okhttp/3.2.0 20190410034616
+The_Knowledge_AI 20190429151126
+Scrapy/1.6.0_(_https://scrapy.org) 20190414084901
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 124
+From1 33 33
+From2 8 8
+From3 32 32
+From4 15 63
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com 5 5
+baidu 1 1
+bing 1 1
+www_google_com_hk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://sucuri.net 30 30
+http://burger-imperia.com 1 1
+https://t.co/lB4aauvg3G 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+blindunh 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+blindunh 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 6 34635
+404 694 902058
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 286
+//plus/90000.php 1 https://www.baidu.com
+//data/conn/config.php 1 https://www.baidu.com
+//include/data/fonts/uddatasql.php 1 https://www.baidu.com
+//plus/ad_js.php 2 https://www.baidu.com
+/wp-config.phpd 1 -
+/cms/wp-admin/setup-config.php 1 -
+/wp-config.phpOLD 1 -
+/wp-config.phpold 1 -
+//dxyylc/md5.aspx 1 https://www.baidu.com
+//fckeditor/editor/filemanager/connectors/php/connector.php 1 http://www.sheaf.com.tw/fckeditor/editor/filemanager/connectors/test.html
+//utility/convert/data/config.inc.php 3 https://www.baidu.com
+/wp-config-sample.php.bak 1 -
+//plus/md5.php 1 https://www.baidu.com
+//member/share.php 1 http://silasgodfrey.com/
+//data/cache/t.php 1 https://www.baidu.com
+//research.asp 1 http://silasgodfrey.com/
+/wp2/ 1 -
+//admin/Admin_Ta.asp 1 https://www.baidu.com
+//base/admin/cache.asp 1 https://www.baidu.com
+/WP/ 1 -
+//plus/mumaasp.asp 1 https://www.baidu.com
+/beta/wp-admin/ 2 -
+//info1.php 1 https://www.baidu.com
+//images/swfupload/images/uploadye.php 1 https://www.baidu.com
+//md5.asp 1 https://www.baidu.com
+//crm/studio/modules/EntityRelease/release.php 1 http://silasgodfrey.com/
+//plus/mytag_js.phpaid=9090 1 https://www.baidu.com
+/wp-config.phpb 1 -
+/modules/homepageadvertise/uploadimage.php 1 http://www.silasgodfrey.com/modules/homepageadvertise/uploadimage.php
+//plus/laobiao.php 1 https://www.baidu.com
+//dxyylc/md5.php 1 https://www.baidu.com
+/blogs/ 1 -
+//plus/m7lrv.php 1 https://www.baidu.com
+/wp3/ 1 -
+/blog/robots.txt 1 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 http://www.silasgodfrey.com/administrator/components/com_simplephotogallery/lib/uploadFile.php
+//bbs/utility/convert/data/config.inc.php 2 https://www.baidu.com
+/wp-content/plugins/complete-gallery-manager/frames/upload-images.php 2 http://www.silasgodfrey.com/wp-content/plugins/complete-gallery-manager/frames/upload-images.php
+/wp-config 1 -
+//utility/convert/index.php 1 http://silasgodfrey.com/
+/misc/drupal.js 30 http://sucuri.net
+//vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 http://silasgodfrey.com/
+//vendor/phpunit/phpunit/src/Util/PHP/asd.php 1 http://silasgodfrey.com/
+/config.php~~ 1 -
+/Old/ 1 -
+//admin/sdfg.asp 1 https://www.baidu.com
+/wp-content/themes/purevision/style.css 1 http://www.silasgodfrey.com/wp-content/themes/purevision/style.css
+//statics/images/cache.asp 1 https://www.baidu.com
+/v2/ 2 -
+//index.php 8 http://silasgodfrey.com/
+/wp-config.php_ 1 -
+//plugins/weathermap/configs/test404.php 1 https://www.baidu.com
+/404javascript.js 30 http://www.google.com/url/
+/cms/ 1 -
+/wp-config.php.us 1 -
+//plus/mytag_js.php 9 https://www.baidu.com
+/test/ 1 -
+//plus/mp.php 1 https://www.baidu.com
+/new/wp-admin/install.php 1 -
+//plus/mcds.asp 1 https://www.baidu.com
+/wp5/wp-login.php 2 -
+//images/cache.asp 1 https://www.baidu.com
+/config 1 -
+/ads.txt 2 -
+/blog/wp-admin/install.php 1 -
+//plus/download.php 3 http://silasgodfrey.com/
+/wp-config.htm 1 -
+/backup/wp-admin/setup-config.php 1 -
+/old_wp/ 1 -
+//plus/mytag_js.phpaid=909 1 https://www.baidu.com
+//images/Sql.asp 1 https://www.baidu.com
+//preview.php 1 http://silasgodfrey.com/
+/v3/ 1 -
+//plus/x.php 1 https://www.baidu.com
+//plus/erraddsave.php 1 http://silasgodfrey.com/
+//plus/mytag_js.phpaid=6022 1 https://www.baidu.com
+/wp/ 2 -
+//admin_login.php 1 https://www.baidu.com
+/wp-config.php.uk 1 -
+/oldwp/ 1 -
+/config. 1 -
+/stylesheets/images/feather_icon.png 7 http://yoble.us/neon-lightwood
+/wp_old/ 1 -
+//da.php 1 http://silasgodfrey.com//da.php
+/wp-config.php-n 1 -
+/modules/columnadverts/uploadimage.php 1 http://www.silasgodfrey.com/modules/columnadverts/uploadimage.php
+//include/ckeditor/plugins/pagebreak/images/inCahe.php 1 https://www.baidu.com
+/wp-config. 1 -
+/wp-config.php.backup 1 -
+/uv-config.php.public 1 -
+/modules/namamodule/uploadimage.php 1 http://www.silasgodfrey.com/modules/namamodule/uploadimage.php
+/core/CHANGELOG.txt 30 http://sucuri.net
+//system/config/shell.php 1 http://silasgodfrey.com/
+//Somnus/Somnus.asp 1 https://www.baidu.com
+//plus/backup.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9013 1 https://www.baidu.com
+//fckeditor/editor/filemanager/upload/aspx/upload.aspx 1 http://silasgodfrey.com//fckeditor/editor/filemanager/upload/aspx/upload.aspx
+//plus/xsvip.php 1 https://www.baidu.com
+/bb-config.php.bak 1 -
+/wordpress/ 2 -
+//wordpress//wp-login.php 1 http://www.google.com.hk
+/v1/ 2 -
+/wp-config.phpa 1 -
+//plus/qingtian.php 1 https://www.baidu.com
+//manage/Images/Sql.asp 1 https://www.baidu.com
+/wp-config.data 1 -
+//kdatebase/index_.asp 1 https://www.baidu.com
+//plus/mytag_j.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=9191 1 https://www.baidu.com
+/site/ 1 -
+/blog/xmlrpc.php 2 -
+//lang/cn/system.php 1 https://www.baidu.com
+/old/wp-admin/setup-config.php 2 -
+//ads/admin/admin.lnc.php 1 https://www.baidu.com
+//include/helperss/filter.helpear.php 1 https://www.baidu.com
+/wp-config.old 1 -
+//plus/mybak.php 1 https://www.baidu.com
+//plus/mytag_js.phpaid=1 4 https://www.baidu.com
+/index.php 2 -
+//admin/images/Sql.asp 1 https://www.baidu.com
+/wp-config.php.backup.txt 1 -
+//plus/mytag_js.phpaid=9521 6 https://www.baidu.com
+/wp1/ 1 -
+/wp-config%20fix.txt 1 -
+/wp-config.php.resetwp_bak 1 -
+/wp-config.txt 1 -
+//admin/error.asp 1 https://www.baidu.com
+/wp-config.phpbak 1 -
+//plus/mytag_js.phpaid=9999 1 https://www.baidu.com
+//install/index.php.bak 1 http://silasgodfrey.com/
+/robots.txt 145 -
+/website/ 1 -
+/wp-config%20 1 -
+/press/ 2 -
+//blog/ 1 http://silasgodfrey.com/
+//plus/moon.php 2 https://www.baidu.com
+/wp/wp-admin/setup-config.php 2 -
+//wp-login.php 1 http://www.google.com.hk
+/wp-config.php.public 1 -
+/wp-content/plugins/wp-symposium/readme.txt 1 http://www.silasgodfrey.com/wp-content/plugins/wp-symposium/readme.txt
+/old/ 1 -
+/wp-config.phpo 1 -
+/wp/test/ 1 -
+/wp-content/plugins/log.php 2 -
+/tmp/wp-admin/setup-config.php 1 -
+//plus/mytag_js.phpaid=7888 1 https://www.baidu.com
+/wp7/wp-login.php 1 -
+/xmlrpc.php 4 -
+/wp-config.php1 1 -
+/news/ 1 -
+//fckeditor/editor/filemanager/upload/php/upload.php 1 http://silasgodfrey.com//fckeditor/editor/filemanager/upload/php/upload.php
+/.well-known/security.txt 1 -
+/wp-config-backup1.txt 1 -
+/1485211 1 -
+//data/64test.php 1 https://www.baidu.com
+//plus/digg.php 1 https://www.baidu.com
+/wp-config.php.bak 1 -
+/wp-config.html 1 -
+/assets/modules/evogallery/js/uploadify/uploadify.css 1 http://www.silasgodfrey.com/assets/modules/evogallery/js/uploadify/uploadify.css
+/wp-config.phpnew 1 -
+//plus/advancedsearch.php 1 http://silasgodfrey.com/
+//plus/service.php 1 https://www.baidu.com
+//plus/ms.php 1 https://www.baidu.com
+/1172495/Email-Marketing 1 -
+/wp-config-backup.txt 1 -
+/wp-config.php-o 1 -
+/1.zip 1 -
+//images/css/Thumb.asp 1 https://www.baidu.com
+/server/php/ 1 http://www.silasgodfrey.com/server/php/
+//test404.php 1 https://www.baidu.com
+/CHANGELOG.txt 30 http://sucuri.net
+/config.php~ 1 -
+/user/register 1 -
+/config.bak 1 -
+/new/ 1 -
+//uploadfile/member/0/0x0.php 1 http://silasgodfrey.com/
+/test/wp-admin/setup-config.php 1 -
+//user.php 2 45ea207d7a2b68c49582d2d22adf953aads|a:3:{s:3:\\\"num\\\"
+//plus/mytag_js.phpaid=999 1 https://www.baidu.com
+//search.php 3 http://silasgodfrey.com/
+/JOMLA/ 1 -
+/core/misc/drupal.js 30 http://sucuri.net
+/wp-config.php.sample 1 -
+//Templates/red.asp 1 https://www.baidu.com
+/demo/ 1 -
+/sitemap.xml 6 -
+/wp-config.prod.php.txt 1 -
+/beta/ 1 -
+//plugins/weathermap/editor.php 1 http://silasgodfrey.com/
+/en/ 1 -
+/wp-config.phptmp 1 -
+//admin_aspcms/_system/AspCms_SiteSetting.asp 1 http://silasgodfrey.com/
+/up.php 2 -
+//type.php 1 http://silasgodfrey.com/
+/modules/homepageadvertise2/uploadimage.php 1 http://www.silasgodfrey.com/modules/homepageadvertise2/uploadimage.php
+/wp-config.php.in 1 -
+/wp-config-sample.php~~ 1 -
+/wp-config.php~~~~ 1 -
+/blog/ 2 -
+//plus/e7xue.php 1 https://www.baidu.com
+//plus/mycak.php 1 https://www.baidu.com
+//data/config.php 1 https://www.baidu.com
+/blog/wp-admin/setup-config.php 1 -
+//plus/spider.php 1 https://www.baidu.com
+//config/AspCms_Config.asp 3 https://www.baidu.com
+/wp-admin/install.php 2 -
+//admin/admin_ping.php 1 http://silasgodfrey.com/
+/wp-conde.php 1 -
+/config.txt 1 -
+/wp-config.php~~ 1 -
+/wp-login.php 6 -
+//plus/mytag_js.phpaid=9527 1 https://www.baidu.com
+/temp.php 2 -
+//install.php 1 http://silasgodfrey.com//install.php
+/wp-config.php_old 1 -
+//admin.php/code/mod 1 http://silasgodfrey.com/
+/modules/simpleslideshow/uploadimage.php 1 http://www.silasgodfrey.com/modules/simpleslideshow/uploadimage.php
+/www/wp-admin/setup-config.php 1 -
+//tempplate/___index.php 1 https://www.baidu.com
+//admin/ping.php 1 https://www.baidu.com
+/wordpress/wp-admin/setup-config.php 3 -
+//plus/myjs.php 1 https://www.baidu.com
+//email/index.php 1 http://silasgodfrey.com/
+//faq.php 1 http://silasgodfrey.com/
+/wp-config-sample.php~ 1 -
+/wp-config.local.php 1 -
+/config.old 1 -
+/wp-config.phpc 1 -
+//admin_UploadDataHandler.ashx 1 http://silasgodfrey.com//admin_UploadDataHandler.ashx
+/index 1 -
+/main/ 2 -
+//plus/mytag_js.phpaid=8080 1 https://www.baidu.com
+//plus/mysql.php 1 https://www.baidu.com
+/wp-config.backup 1 -
+/wp-config.bak 1 -
+//data/img/css/xianf.ASP 1 https://www.baidu.com
+//install/m7lrv.php 1 https://www.baidu.com
+//plus/mytag_j.phpaid=6022 1 https://www.baidu.com
+//uploadfile/userfiles/media/confg.inc.php 1 https://www.baidu.com
+//plus/av.php 1 https://www.baidu.com
+/wp-config.cfg 1 -
+//email/shell.php 1 https://www.baidu.com
+/wp-config.php.com 1 -
+/components/com_sexycontactform/fileupload/index.php 1 http://www.silasgodfrey.com/components/com_sexycontactform/fileupload/index.php
+/wp-config-backup 1 -
+/wp-config.phpe 1 -
+/wp-config.save 1 -
+/wp2/wp-login.php 1 -
+//plus/mcds.php 1 https://www.baidu.com
+//book/story_dod_hjkdsafon.php 1 https://www.baidu.com
+//struts2-showcase/filedownload/index.action 1 https://www.baidu.com
+//hxgs.php 1 https://www.baidu.com
+/modules/productpageadverts/uploadimage.php 1 http://www.silasgodfrey.com/modules/productpageadverts/uploadimage.php
+/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.js 1 http://www.silasgodfrey.com/wp-content/plugins/dzs-videogallery/admin/dzsuploader/upload.js
+/wp-icoud.php 2 -
+//data/data/index.php 1 https://www.baidu.com
+/wp1/wp-login.php 1 -
+/wp-config.php.txt 1 -
+/log.php 2 -
+/wp-config.phpn 1 -
+//plus/mytag_js.php%20aid=9090 1 https://www.baidu.com
+/wp/wp-login.php 1 -
+//plus/90sec.php 2 https://www.baidu.com
+//Templates/test.asp 1 https://www.baidu.com
+/modules/vtemslideshow/uploadimage.php 1 http://www.silasgodfrey.com/modules/vtemslideshow/uploadimage.php
+/portal/ 1 -
+//install/includes/configure.php 1 http://silasgodfrey.com/
+/new/wp-admin/setup-config.php 1 -
+//system/config/database.php 1 http://silasgodfrey.com/
+//dxyylc/md5.asp 1 https://www.baidu.com
+//plus/mowang.php 1 https://www.baidu.com
+/jomla/ 1 -
+/404testpage4525d2fdc 30 http://sucuri.net
+//include/code/mp.php 2 https://www.baidu.com
+/wp-config.php~~~ 1 -
+/stylesheets/images/silas.png 3 -
+/forum/wp-login.php 1 -
+//install/install.php 1 http://silasgodfrey.com/
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/css/frame.css 3 -
+//shell.php 5 https://www.baidu.com
+/wp-config.php~ 1 -
+//install/md5.php 1 https://www.baidu.com
+/wordpress/wp-admin/install.php 3 -
+//plus/bakup.php 1 https://www.baidu.com
+/wp-config.php.org 1 -
+/home/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 112
+18.220.141.78 60 60 134400 20190430220233
+52.53.201.78 12 12 26880 20190426221903
+60.191.38.77 9 9 58311 20190429221139
+52.165.148.51 5 5 11200 20190418014857
+144.217.71.103 3 3 19437 20190418162231
+193.201.225.45 2 2 4480 20190426011937
+71.198.22.52 2 8 178180 20190417184119
+62.210.201.91 2 2 4480 20190428181908
+184.94.240.92 2 2 12958 20190426070824
+66.160.140.184 2 2 4480 20190423085423
+52.53.211.151 2 2 2240 20190425203030
+130.161.3.228 2 6 177922 20190430012517
+162.243.171.95 2 2 2240 20190412043744
+185.94.98.177 2 2 12958 20190429185833
+66.160.140.179 2 2 4480 20190424223937
+52.71.64.37 2 2 4480 20190418093109
+173.252.87.15 1 4 89090 20190427053749
+31.13.115.13 1 4 89090 20190427053748
+178.128.229.8 1 1 0 20190407085450
+3.81.96.220 1 1 2240 20190425222943
+91.236.116.14 1 1 2240 20190414084901
+34.210.0.31 1 1 2240 20190417030701
+66.220.149.29 1 2 12976 20190406200419
+54.69.49.133 1 1 6479 20190409143802
+69.171.251.32 1 4 89090 20190427053748
+104.165.75.143 1 1 6479 20190414094919
+64.62.252.163 1 1 2240 20190429151126
+159.65.37.137 1 2 69290 20190407200522
+64.233.172.247 1 2 2369 20190405053646
+69.58.178.59 1 1 6479 20190418053932
+124.83.35.3 1 4 89090 20190409203508
+159.203.101.95 1 2 69290 20190427010933
+192.162.101.88 1 1 6479 20190427075418
+104.164.193.217 1 1 6479 20190425220420
+173.252.95.16 1 4 89090 20190411084754
+138.197.111.191 1 1 2240 20190430054433
+37.114.156.174 1 1 6479 20190404060310
+5.188.62.5 1 1 2240 20190416091502
+54.213.8.10 1 1 2240 20190425052653
+142.93.191.63 1 1 2240 20190426070214
+204.236.251.155 1 1 2240 20190406003442
+104.237.244.187 0 1 10736 
+72.80.29.181 1 1 2240 20190424201855
+68.73.205.167 1 4 89090 20190419213624
+38.79.209.44 0 1 10736 
+14.215.176.147 1 2 12976 20190422160616
+165.227.210.244 1 1 2240 20190418101648
+38.100.21.63 1 2 73529 20190405140243
+104.227.246.106 1 1 6479 20190418154216
+54.188.202.190 1 1 2240 20190408105130
+54.149.224.255 1 1 2240 20190410020736
+75.9.55.179 1 4 89090 20190421205912
+174.88.193.165 1 3 88961 20190417084404
+191.101.87.98 1 1 2240 20190403183214
+52.173.241.248 1 1 2240 20190404213230
+64.246.165.210 1 1 2240 20190412034456
+54.193.95.21 1 2 12976 20190425203030
+85.10.204.252 1 1 6479 20190421202510
+64.62.252.174 1 1 2240 20190428121243
+54.202.215.248 1 1 2240 20190429041950
+103.40.73.64 1 4 89090 20190418081625
+192.99.35.63 1 1 2240 20190426050806
+142.93.184.122 1 2 69290 20190417115613
+114.249.250.168 1 1 6479 20190421164449
+142.93.71.104 1 2 69290 20190412153535
+104.168.144.21 1 1 6479 20190405163747
+66.240.236.119 1 1 6479 20190408165206
+52.89.118.20 1 1 2240 20190427053335
+66.160.140.183 1 1 2240 20190407152448
+66.160.140.188 1 1 2240 20190429092101
+64.62.252.176 1 1 2240 20190421105237
+52.89.4.230 1 1 2240 20190401040103
+199.195.250.77 1 1 0 20190429021718
+13.56.188.50 1 1 6479 20190425203026
+67.222.244.55 1 3 88961 20190406095055
+180.163.220.47 1 1 2240 20190422031732
+185.153.196.157 1 1 6479 20190402135045
+54.190.103.178 1 1 2240 20190423063659
+107.6.183.226 1 1 2240 20190411150908
+206.180.165.147 1 1 2240 20190417135135
+64.62.252.162 1 1 2240 20190402132708
+138.197.111.143 1 1 2240 20190414100149
+138.197.111.22 1 1 2240 20190422061346
+67.227.96.161 1 1 2240 20190411035759
+104.178.14.158 1 4 89090 20190425073642
+54.163.116.91 1 1 2240 20190420041228
+66.220.149.28 0 2 76114 
+46.235.158.196 1 1 6479 20190409120513
+159.65.175.214 1 2 69290 20190422074136
+34.254.197.243 1 1 2240 20190415105743
+159.65.34.175 1 2 69290 20190403010644
+54.212.35.0 1 1 2240 20190424024845
+52.33.240.232 1 1 2240 20190426021327
+138.197.13.231 1 1 2240 20190406090049
+144.76.120.23 1 1 0 20190424023039
+108.62.3.46 1 1 6479 20190418185218
+38.145.109.223 1 1 2240 20190425032047
+10.39.128.9 1 1 2240 20190406220922
+67.227.100.146 1 1 2240 20190417223322
+138.219.108.22 1 1 6479 20190403061350
+108.62.98.33 1 1 2240 20190410043536
+95.211.209.158 1 1 6479 20190403194300
+31.184.238.190 1 1 6479 20190425111823
+46.101.80.192 1 1 2240 20190411200049
+3.81.42.223 1 1 2240 20190413224449
+142.93.180.89 1 1 2240 20190402101559
+185.234.219.246 1 1 6479 20190415115800
+23.227.194.86 1 1 0 20190417054352
+151.106.12.244 1 1 6479 20190402210742
+35.220.200.225 1 1 2240 20190410034616
+142.93.76.125 1 1 2240 20190410090303
+66.154.112.167 1 1 6479 20190423185536
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190401 6 6 17679 5
+20190402 7 10 111008 6
+20190403 8 9 93448 7
+20190404 4 4 13199 3
+20190405 7 9 91337 5
+20190406 8 13 191491 7
+20190407 7 8 88968 6
+20190408 6 6 21918 5
+20190409 5 8 106528 4
+20190410 7 7 15680 6
+20190411 6 9 100290 5
+20190412 6 7 78250 4
+20190413 5 5 11200 4
+20190414 6 6 21918 5
+20190415 7 7 24158 6
+20190416 4 4 8960 3
+20190417 10 16 260781 9
+20190418 12 16 149900 9
+20190419 3 6 93570 2
+20190420 4 4 8960 3
+20190421 6 9 108768 5
+20190422 9 11 106424 8
+20190423 5 5 15439 4
+20190424 7 7 13440 6
+20190425 12 17 145679 10
+20190426 9 9 24399 7
+20190427 8 18 349759 7
+20190428 5 5 11200 3
+20190429 10 10 37116 8
+20190430 5 9 184642 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 163
+2mn-5mn 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 204 604602 165 165
+END_SIDER

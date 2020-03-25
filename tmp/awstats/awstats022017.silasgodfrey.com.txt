@@ -1,0 +1,773 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201702 will be lost/reset.
+# Last config file used to build this data file was /home/silasgodfrey/tmp/awstats/awstats.silasgodfrey.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2695                
+POS_VISITOR 19461               
+POS_DAY 22330               
+POS_DOMAIN 3418                
+POS_LOGIN 3885                
+POS_ROBOT 4040                
+POS_WORMS 4541                
+POS_EMAILSENDER 4672                
+POS_EMAILRECEIVER 4815                
+POS_SESSION 22949               
+POS_SIDER 23116               
+POS_FILETYPES 4950                
+POS_DOWNLOADS 5090                
+POS_OS 5138                
+POS_BROWSER 5394                
+POS_SCREENSIZE 6262                
+POS_UNKNOWNREFERER 6336                
+POS_UNKNOWNREFERERBROWSER 6643                
+POS_ORIGIN 6907                
+POS_SEREFERRALS 7044                
+POS_PAGEREFS 7219                
+POS_SEARCHWORDS 7624                
+POS_KEYWORDS 7791                
+POS_MISC 2359                
+POS_ERRORS 7865                
+POS_CLUSTER 3741                
+POS_SIDER_404 7968                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170301000936 27 4623 11634194799446
+FirstTime 20170201012305
+LastTime 20170228170503
+LastUpdate 20170301051432 27 0 26 0 0
+TotalVisits 78                  
+TotalUnique 72                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 73                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 10 3583971 30 41 130545
+1 2 2 4472 18 28 39258
+2 8 14 3590490 24 47 108059
+3 3 3 10824 20 29 33241
+4 1 1 961 7 19 101646
+5 4 5 76399 15 30 35401
+6 1 1 3608 5 6 4666
+7 4 4 6575 11 25 298081
+8 2 5 1790676 10 23 117411
+9 3 7 1858898 9 14 19624
+10 2 5 1793295 12 30 1875586
+11 6 6 16410 18 31 30210
+12 8 17 5379181 22 39 56200
+13 3 3 5586 12 22 94998
+14 4 4 12037 3 12 9633
+15 9 18 5374995 128 280 388893
+16 6 12 3583274 7 19 33694
+17 5 8 1798756 9 21 27352
+18 3 9 3580363 17 24 22010
+19 1 1 989 9 24 53678
+20 4 4 3956 23 38 83875
+21 0 0 0 14 29 33070
+22 0 0 0 6 17 14225
+23 2 2 1978 30 49 63039
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+us 37 80 25182244
+cn 11 12 83322
+ca 5 11 3582341
+ua 4 4 6519
+de 3 3 5586
+fr 3 3 2911
+kr 3 3 2967
+vn 2 5 1790676
+nl 2 2 1978
+sk 2 2 7216
+gb 2 2 1978
+ru 2 2 4597
+it 2 2 4597
+eu 1 1 989
+es 1 4 1789687
+kz 1 1 3511
+fi 1 1 989
+lv 1 1 3608
+cz 1 1 989
+md 1 1 989
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 122 304963 20170228220042 0
+googlebot 95 679750 20170228234639 0
+spider 44 101155 20170227234225 0
+robot 9 11520 20170228120648 0
+bingpreview 3 1842860 20170227105320 0
+checker 2 1978 20170224114722 0
+netcraft 2 7216 20170207113452 0
+[\s_+:,\.\;\/\\-]bot 1 75985 20170224133402 0
+crawl 1 989 20170216132934 0
+no_user_agent 1 3608 20170211204752 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+Unknown 1 9070 0 0
+html 84 142832 0 0
+jpg 36 32008428 0 0
+css 20 317364 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linux 15 12
+java 2 2
+winnt 6 6
+macosx6 2 2
+ios_iphone 25 9
+win8.1 2 2
+winxp 2 2
+Unknown 5 5
+win2003 2 1
+macosx 48 15
+winlong 3 3
+macosx7 1 1
+win7 23 20
+macosx9 3 3
+linuxandroid 1 1
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 43
+safari9.1.1 4 1
+chrome44.0.2403.125 2 2
+chrome55.0.2883.95 15 6
+chrome49.0.2623.75 1 1
+chrome35.0.1916.153 1 1
+firefox50.0 2 2
+chrome40.0.2214.115 3 3
+safari5.1.3 1 1
+firefox3.6.12 1 1
+chrome31.0.1650.57 2 2
+chrome56.0.2924.76 4 1
+chrome41.0.2272.96 1 1
+chrome14.0.790.0 1 1
+chrome56.0.2924.87 20 5
+chrome36.0.1985.143 3 3
+safari8.0 2 1
+chrome54.0.2840.98 1 1
+mozilla 3 3
+chrome37.0.2062.120 5 5
+chrome36.0.1985.125 3 3
+chrome50.0.2661.75 2 2
+msie11 1 1
+chrome48.0.2564.82 4 1
+msie7.0 3 2
+safari10.0.2 4 1
+safari5.1 2 2
+firefox3.6.3 1 1
+msie11.0 3 3
+Unknown 5 5
+chrome51.0.2704.106 1 1
+safari 1 1
+firefox41.0 1 1
+firefox48.0 3 3
+safari10.0 9 3
+chrome45.0.2454.101 1 1
+chrome34.0.1847.116 2 2
+firefox12.0 1 1
+chrome41.0.2289.79 1 1
+chrome27.0.1453.90 3 3
+firefox26.0 1 1
+msie6.0 1 1
+chrome55.0.2883.87 4 1
+iphone 12 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_ips-agent) 20170211110938
+nutch-1.4/Nutch-1.4 20170201042503
+Go-http-client/1.1 20170208161619
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20170206082127
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Java/1.8.0_111 20170215125732
+python-requests/2.3.0_CPython/3.4.0_Linux/4.4.35-33.55.amzn1.x86_64 20170227072650
+Go-http-client/1.1 20170208161619
+nutch-1.4/Nutch-1.4 20170201042503
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 58 59
+From1 2 2
+From2 10 10
+From3 11 11
+From4 4 59
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+yahoo 1 1
+google 5 5
+baidu 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://l.instagram.com 3 3
+https://www.linkedin.com 1 1
+http://anonymizeme.pro/go/hide.cgi 1 1
+http://burger-imperia.com 1 1
+http://pizza-imperia.com 1 1
+http://hvd-store.com 1 1
+http://t.co/y9etKrhGyR 1 1
+http://pizza-tycoon.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+silasgodfrey 4
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+silasgodfrey 4
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 4 14335
+404 577 630036
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 335
+/manager/ 1 -
+/wp-content/plugins/hello.php 1 silasgodfrey.com
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/blog/ 3 http://silasgodfrey.com/blog/
+/images/default/post_bt.gif 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/js/buttons.js 1 -
+/history.txt 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/bbs/ 1 -
+/wordpress/index.php 1 -
+/admin/admin_login.php 1 -
+/wp-content/themes/dshopping/wp-search.php 1 silasgodfrey.com
+/ckeditor/ckeditor.js 1 -
+/default/css/em_css.css 1 -
+/Install/logo.gif 1 -
+/notlce.php 1 silasgodfrey.com
+/components/adodb.class.php 1 silasgodfrey.com
+/robots.txt 222 -
+/login/Jeecms.do 1 -
+/forums/list.page 1 -
+/modules/mod_stat/mod_stat.php 1 silasgodfrey.com
+/inc96.php 1 http://silasgodfrey.com/inc96.php
+/wcm/ 1 -
+/wp/index.php 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+/images/logo_product-cml.png 1 -
+/CHANGELOG.txt 1 -
+/index_old.php 1 silasgodfrey.com
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/wp-content/themes/pro-hosting/wp-search.php 1 silasgodfrey.com
+/ckfinder/ckfinder.html 1 -
+/search37.php 1 http://silasgodfrey.com/search37.php
+/inc/rsd.php 1 -
+/plus/download.php 1 -
+/rss.aspx 1 -
+/wp-content 1 -
+/examples/file-manager.html 1 -
+/images/branding/logo.gif 1 -
+/wp-content/fmp-jw-files/configs/mssqli.php 1 silasgodfrey.com
+/Editor.js 1 -
+/archiver/ 1 -
+/wp-snapshots/tmp/mssqli.php 1 silasgodfrey.com
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/docs.css 1 -
+/fckeditor/license.txt 1 -
+/templates/adodb.class.php 1 silasgodfrey.com
+/web2/login_template/1.files/Logo1.jpg 1 -
+/system/Update.aspx 1 -
+/default/images/logo.gif 1 -
+/install 1 -
+/wp-content/themes/twentytwelve/inc/mssqli.php 1 silasgodfrey.com
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/monte.php 1 silasgodfrey.com
+/wp-content/common.php 1 silasgodfrey.com
+/wp-content/themes/bootcake/index.php 1 silasgodfrey.com
+/ckeditor/ckfinder/ckfinder.html 1 -
+/bencandy.php 1 -
+/plugins/anchor/anchor.js 1 -
+/plugins/system/anticopy/anticopy.php 1 silasgodfrey.com
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php 1 silasgodfrey.com
+/docs/ 1 -
+/lndex.php 1 silasgodfrey.com
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/app/home/skins/default/style.css 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/hfilter.php 1 silasgodfrey.com
+/wp-content/plugins/libravatar-replace/libravatar-replace.php 1 silasgodfrey.com
+/Admin/Common/HelpLinks.xml 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/js/ajax_x.js 1 -
+/images/hwem.css 1 -
+/wp-content/uploads/mssqli.php 1 silasgodfrey.com
+/plug/publish 1 -
+/plus/sitemap.html 1 -
+/whir_system/module/security/login.aspx 1 -
+/wp-content/plugins/adodb.class.php 1 silasgodfrey.com
+/Help 1 -
+/wp-content/plugins/maintenance-mode/languages/mssqli.php 1 silasgodfrey.com
+/examples/index.html 1 -
+/shwrk.php 1 silasgodfrey.com
+/examples/readonly.html 1 -
+/common/help/images/helplogo.gif 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/admin/login.aspx 1 -
+/archive/archive.css 1 -
+/wp-content/hfilter.php 1 silasgodfrey.com
+/themes/graphics/horde-power1.png 1 -
+/advfile/ad12.js 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/plus/rssmap.html 1 -
+/fckeditor/fckeditor.js 1 -
+/templates/jtemplate/jtemplate.php 1 silasgodfrey.com
+/admin/login.asp 1 -
+/templates/jtemplate/j1template.php 1 silasgodfrey.com
+/extman/default/images/logo.gif 1 -
+/license.txt 1 -
+/wp-admin/maint/mssqli.php 1 silasgodfrey.com
+/jcms/index.jsp 1 -
+/Error.aspx 1 -
+/include.class.php 2 silasgodfrey.com
+/digg.php 1 -
+/themes/default/default.css 1 -
+/Images/login/lefttu.jpg 1 -
+/static/images/logo/webserver_small.gif 1 -
+/master/login.aspx 1 -
+/includes/general.js 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/style/default/hdwiki.css 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/plugin.php 1 -
+/wp-content/plugins/libravatar-replace/config_all.php 1 silasgodfrey.com
+/new_gb/help/images/usage/3.3.gif 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/phpmyadmin/ 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/wp-content/themes/adodb.class.php 1 silasgodfrey.com
+/index.php 6 silasgodfrey.com
+/img/pic/login/top-left.jpg 1 -
+/feed.asp 1 -
+/wp-admin/adodb.class.php 1 silasgodfrey.com
+/logo/logo_jw.png 1 -
+/wp-content/themes/sketch/404.php 1 silasgodfrey.com
+/admin 1 -
+/wp-includes/adodb.class.php 1 silasgodfrey.com
+/wp-content/plugins/hello-dolly/mssqli.php 1 silasgodfrey.com
+/archiver 1 -
+/inc/playerKinds.xml 1 -
+/README.txt 1 -
+/wp-includes/theme-compat/mssqli.php 1 silasgodfrey.com
+/system/skins/default/system.login.htm 1 -
+/admin/inc/xml.xslt 1 -
+/administrator/adodb.class.php 1 silasgodfrey.com
+/wp-content/uploads/quarantine/mssqli.php 1 silasgodfrey.com
+/plugins/filemanager/filemanager/js 1 -
+/Images/login/mainlogo.gif 1 -
+/adodb.class.php 1 silasgodfrey.com
+/mssqli.php 1 silasgodfrey.com
+/main_.php 1 silasgodfrey.com
+/eams/static/scripts/grade/course/input.js 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/app/images/login/logo.png 1 -
+/business/images/index-gg1.jpg 1 -
+/system/Login.aspx 1 -
+/Contact 1 -
+/images/login9/login_33.jpg 1 -
+/wp-includes/fonts/mssqli.php 1 silasgodfrey.com
+/wp-content/wfcache/phoenixtechsolution.com_portfolio-3/mssqli.php 1 silasgodfrey.com
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/common/common.js 1 -
+/siteserver/login.aspx 1 -
+/images/login/icon-up.gif 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/deptWebsiteAction.do 1 -
+/jcms/index_jcms.jsp 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/readme.html 2 -
+/wordpress/ 1 -
+/wp-content/hook-filters.php 1 silasgodfrey.com
+/page.php 1 silasgodfrey.com
+/lang/en.js 1 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/wp-content/themes/twentyseventeen/wp-search.php 1 silasgodfrey.com
+/Prompt/images/P_Wrong.gif 1 -
+/images/login_Name.jpg 1 -
+/console/js/CTRSRequestParam.js 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/book.php 1 silasgodfrey.com
+/ks_inc/ajax.js 1 -
+/Ntalker/lawfirm.aspx 1 -
+/list.php 1 -
+/admin/template/article_more/config.htm 1 -
+/include/dedeajax2.js 1 -
+/nobody/mobile.htm 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/Search.html 1 -
+/modules/mod_jmodule/mod_j1module.php 1 silasgodfrey.com
+/FCK/fckeditor.js 1 -
+/weblog/ 1 -
+/wp/ 1 -
+/script/valid_formdata.js 1 -
+/xmlrpc.php 3 -
+/common/help/images/helplogo_zh.gif 1 -
+//wp-login.php 1 -
+/wp-content/plugins/foolcar/foolcar.php 1 silasgodfrey.com
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/app/images/login/toplogo.gif 1 -
+/wp-includes/css/mssqli.php 1 silasgodfrey.com
+/hook-filters.php 1 silasgodfrey.com
+/wp-content/uploads/adodb.class.php 1 silasgodfrey.com
+/member/space/company/info.txt 1 -
+/wp-content/monte.php 1 silasgodfrey.com
+/rss.php 1 -
+/next/img/logo.gif 1 -
+/wp-login.php 3 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/console/js/CWCMDialogHead.js 1 -
+/resume 2 -
+/images/login/eyoumail.gif 1 -
+/images/logo-white.png 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/api/api_user.xml 1 -
+/docs/DOCUMENTATION.txt 1 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/forum.php 1 -
+/wp-cron.php 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/utf.php 1 http://silasgodfrey.com/utf.php
+/templates/j2template/j2template.php 1 silasgodfrey.com
+/admin/ 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/wp-content/themes/vmag/wp-search.php 1 silasgodfrey.com
+/404.jpg 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/static/hgicon.png 1 -
+/customdir/images/english_logo.jpg 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/wp-content/themes/twentyfourteen/system.php 1 silasgodfrey.com
+/was/main.html 1 -
+/wp-content/common_1.php 1 silasgodfrey.com
+/datacenter/downloadApp/showDownload.do 1 -
+/app/login.jsp 1 -
+/images/zh-CN/logo.ico 1 -
+/sitemap.xml 1 -
+/wp-includes/pomo/foolcar.php 1 silasgodfrey.com
+/forum/ 1 -
+/blog/robots.txt 1 -
+/images/2_11.gif 1 -
+/issmall/ 1 -
+/wp-includes/theme-compat/productid/mssqli.php 1 silasgodfrey.com
+/cgi/index.cgi 1 -
+/console/include/not_login.htm 1 -
+/include/dialog/config.php 1 -
+/data/images/wap_logo.gif 1 -
+/siteserver/upgrade/default.aspx 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/max-templates/classic/styles/app.css 1 -
+/images/jlogo.php 1 silasgodfrey.com
+/database.php 1 silasgodfrey.com
+/auth/login 1 -
+/changelog.txt 1 -
+/modules/adodb.class.php 1 silasgodfrey.com
+/Images/login/biaoti.jpg 1 -
+/index.cgi 1 -
+/images/logo_88x31.gif 1 -
+/public/js/ipb.js 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/admin/start/index.php 1 -
+/fckeditor/fckconfig.js 1 -
+/stylesheets/images/feather_icon.png 5 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/doku.php 1 -
+/modules/mod_j2module/mod_j2module.php 1 silasgodfrey.com
+/editor/fckeditor.js 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/wp-admin/admin-ajax.php 1 -
+/m 1 -
+/wp-config-sample.php 1 -
+/License.txt 1 -
+/base/login/login.php 1 -
+/images/Default_bg_002.gif 1 -
+/whir_system/login.aspx 1 -
+/wraper.php 1 silasgodfrey.com
+/data/admin/ver.txt 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/stylesheet.css 1 -
+/wp-content/uploads/2013/07/mssqli.php 1 silasgodfrey.com
+/administrator/manifests/files/joomla.xml 1 -
+/wp-content/main_.php 1 silasgodfrey.com
+/kindeditor-min.js 1 -
+/css.php 1 silasgodfrey.com
+/test_404_page/ 1 -
+/maintlogin.jsp 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/admin/js/IdSUtil.js 1 -
+/Wq_StranJF.js 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+/was5/web/index.jsp 1 -
+/admin/login.php 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/asp.net/README.txt 1 -
+/start.php 1 http://silasgodfrey.com/start.php
+/inc/Templates/rss.xslt 1 -
+/script/login.js 1 -
+/admin.php 2 -
+/phpmyadmin/docs.css 1 -
+/extern.php 1 -
+/kindeditor.js 1 -
+/console/auth/reg_newuser.jsp 1 -
+/licence.txt 1 -
+/pub/guiedit/guiedit.js 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/help/en/h_authenticate.html 1 -
+/admin/editor/ 1 -
+/images/login/logo.gif 1 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/plugins/adodb.class.php 1 silasgodfrey.com
+/help/user/index.html 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/ckfinder/install.txt 1 -
+/e/master/login.aspx 1 -
+/tools/rss.aspx 1 -
+/uc_server/control/admin/db.php 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/wp-content/adodb.class.php 1 silasgodfrey.com
+/fckeditor.js 1 -
+/dialog/dialog.js 1 -
+/ids/admin/login.jsp 1 -
+/about/ 1 -
+/libraries/adodb.class.php 1 silasgodfrey.com
+/User/Login.aspx 1 -
+/include/install_ocx.aspx 1 -
+/.git/ 1 http://silasgodfrey.com/.git/
+/contact 2 -
+/system/language/zh-cn.xml 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/wp-content/uploads/sucuri/mssqli.php 1 silasgodfrey.com
+/public/about.html 1 -
+/admin/index.php 1 -
+/plus/heightsearch.php 1 -
+/common.php 2 silasgodfrey.com
+/Admin/Login.aspx 1 -
+/backup.php 1 silasgodfrey.com
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/api.php 1 silasgodfrey.com
+/Include/EcsServerApi.js 1 -
+/template/home.htm 1 -
+/was/help.jsp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 73
+207.141.13.226 3 12 5369061 20170221104932
+172.87.176.59 3 6 1791630 20170203123507
+125.64.94.206 3 3 2967 20170224155629
+69.58.178.56 2 2 7216 20170211110947
+61.135.190.103 2 2 1978 20170207023258
+195.154.181.168 2 2 1950 20170210200149
+75.137.117.51 2 8 3579374 20170212181224
+62.212.73.49 2 2 1978 20170220150041
+85.248.227.163 2 2 7216 20170224035414
+123.123.110.90 2 2 7216 20170215125732
+185.98.6.150 1 1 3511 20170201012305
+162.245.21.61 1 4 1789687 20170224155542
+91.210.146.161 1 1 989 20170212134904
+47.142.206.156 1 4 1789687 20170204093254
+199.116.167.226 1 4 1789659 20170202164544
+107.77.104.46 1 4 1789687 20170217124214
+112.197.16.34 1 4 1789687 20170206005612
+203.133.169.32 1 1 989 20170204072700
+54.87.142.37 1 1 989 20170227072650
+198.12.152.136 1 1 3608 20170216004406
+62.83.254.109 1 4 1789687 20170214084921
+34.249.47.218 1 1 961 20170201163123
+95.65.30.156 1 1 989 20170218024042
+83.240.110.190 1 1 989 20170209150423
+216.69.191.98 1 1 3511 20170202172834
+220.181.108.82 0 1 64614 
+173.208.244.98 1 1 3608 20170225064556
+5.95.187.135 1 1 989 20170207093502
+213.136.89.100 1 1 3608 20170215050813
+38.100.21.66 1 2 68222 20170206055929
+216.239.90.19 1 1 989 20170220075501
+52.32.255.141 1 1 3608 20170216111537
+45.32.130.87 1 1 3608 20170213173908
+104.238.180.234 1 1 3608 20170205134058
+61.135.190.223 1 1 989 20170222204243
+75.189.133.103 1 1 989 20170228163637
+98.207.175.200 1 4 1789687 20170214020301
+188.165.206.188 1 1 961 20170202170002
+203.133.169.101 1 1 989 20170206082127
+75.72.74.123 1 1 3608 20170217033259
+158.85.184.108 1 1 961 20170202024540
+134.249.159.113 1 1 961 20170201121233
+220.181.108.99 1 1 3608 20170206093515
+199.10.28.20 1 4 1789687 20170215150639
+45.32.130.173 1 1 3608 20170222025151
+67.161.7.40 1 1 989 20170215113846
+117.78.13.55 1 1 961 20170201042503
+167.114.224.218 1 1 989 20170208161619
+85.143.210.233 1 1 989 20170222183217
+79.137.85.189 1 1 3608 20170227100410
+185.145.253.76 1 1 3608 20170225114838
+5.189.188.111 1 1 989 20170209163041
+24.19.251.151 1 4 1789659 20170202024827
+66.249.80.11 1 1 989 20170221142724
+24.31.16.44 1 4 1789687 20170225153547
+54.179.134.192 1 1 3608 20170212033225
+85.93.31.146 1 1 989 20170213115937
+24.217.108.84 1 4 1789687 20170207001119
+92.63.91.84 1 1 3608 20170212055949
+69.181.30.19 1 1 989 20170203231540
+61.135.190.104 1 1 989 20170222204306
+188.226.129.55 1 1 989 20170226134454
+109.87.36.111 1 1 3608 20170205071459
+88.99.68.199 1 1 989 20170222234145
+65.19.167.132 1 1 989 20170215195057
+91.210.146.153 1 1 961 20170203011221
+222.252.14.89 1 1 989 20170204145314
+192.169.151.205 1 1 9070 20170227142540
+203.133.168.155 1 1 989 20170228170503
+88.99.65.98 1 1 989 20170206145343
+64.196.121.97 1 4 1789687 20170208160722
+199.87.154.255 1 1 989 20170208203519
+46.228.134.134 1 1 989 20170224000045
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20170201 4 4 6394 4
+20170202 5 11 3584751 5
+20170203 6 9 1794541 4
+20170204 3 6 1791665 3
+20170205 2 2 7216 2
+20170206 6 11 1929098 6
+20170207 4 7 1792654 3
+20170208 5 14 5371039 5
+20170209 2 2 1978 2
+20170210 2 2 4597 2
+20170211 2 2 7216 1
+20170212 5 11 3587579 4
+20170213 3 3 8205 3
+20170214 2 8 3579374 2
+20170215 5 8 1798881 5
+20170216 2 2 7216 2
+20170217 2 5 1793295 2
+20170218 1 1 989 1
+20170220 2 2 1978 2
+20170221 2 5 1790676 2
+20170222 5 5 7564 5
+20170224 6 9 1797251 4
+20170225 3 6 1796903 3
+20170226 1 1 989 1
+20170227 3 3 13667 3
+20170228 2 2 1978 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+2mn-5mn 2
+0s-30s 75
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 84 142832 77 77
+/cpanel 1 9070 1 1
+END_SIDER
