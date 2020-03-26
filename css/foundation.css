@@ -51,7 +51,7 @@ h1 {
   margin: 0.47em 0; }
   
 .header-text {
-	font-family: 'Roboto', sans-serif !important;
+	font-family: 'Georgia', sans-serif !important;
 	font-weight: 100 !important;
 	color: #ffffff;	
 	margin-bottom: 1em;
@@ -168,14 +168,14 @@ h1 {
 }
 
 .section-header {
-	font-family: 'Open Sans', sans-serif !important;
+	font-family: 'Georgia', sans-serif !important;
 	font-weight: 300;
-	color: #333333;
+	color: #3B4354;
 	font-size: 2em;
 }
 
 .about {
-	color: #555555;
+	color: #4E5665;
 	font-size: 1.25em;
 }
 
@@ -731,11 +731,15 @@ h6 {
 
 a {
   line-height: inherit;
-  color: #1779ba;
+  color: #656AB0;
   text-decoration: none;
   cursor: pointer; }
   a:hover, a:focus {
-    color: #1468a0; }
+    color: #5B609E;
+    -webkit-transition: color 0.5s ease-out;
+    -moz-transition: color 0.5s ease-out;
+    -o-transition: color 0.5s ease-out;
+    transition: color 0.5s ease-out; }
   a img {
     border: 0; }
 
@@ -2127,7 +2131,7 @@ select {
     padding-bottom: 0.5rem;
     padding-left: 0.5rem; }
   .callout.large {
-  	background-color: #4990E2;
+  	background-color: #6D72C3;
   	background-size: 100% auto;
   	background-position: center;
   	background-repeat: no-repeat;
